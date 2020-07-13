@@ -20,10 +20,12 @@ The channel should be
 					 - Email sending
 						 - Sendgrid
 				 - Strategy
-					 - 
+					 - I tried reaching out to every employee at a number of VC backed startups across the spectrum from Series A to pre-IPO. I saw fairly high open rates but did not get many responses. 
 			 - LinkedIn
 				 - Connect requests
+					 - Employees will generally accept connection requests but they often don't respond when I send a message after the connection request.
 				 - Inmails
+					 - 
 				 - Posts that mention employees at a specific company
 			 - Twitter
 				 - DMs
@@ -47,6 +49,6 @@ The channel should be
 		 - Google
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDMxNjk0NCwtNjQ5NjQ4NTIyLDcwMD
-MxNjcwNV19
+eyJoaXN0b3J5IjpbLTE0OTIzNTYyOTIsLTY0OTY0ODUyMiw3MD
+AzMTY3MDVdfQ==
 -->
