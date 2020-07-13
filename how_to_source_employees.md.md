@@ -7,7 +7,6 @@ The optimal channel should ideally be
  -  Free. Or at worst the cost should be in carry, not upfront cash
  - Scalable. I shouldn't have to manually source or hire someone to manually source each lead
  
-
 ## The universe of acquisition channels
  - Direct
 	 - Inbound
@@ -68,6 +67,6 @@ The optimal channel should ideally be
 	 - Google
 		 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTM3NDIsLTE3NjA3Njc0NSwtNjQ5Nj
-Q4NTIyLDcwMDMxNjcwNV19
+eyJoaXN0b3J5IjpbMTgwNDA0Mzk0MCwtNDQ5Mzc0MiwtMTc2MD
+c2NzQ1LC02NDk2NDg1MjIsNzAwMzE2NzA1XX0=
 -->
