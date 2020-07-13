@@ -4,6 +4,8 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
 
 How do we measure the performance of the SPV? We can use four different metrics to measure the performance of an SPV. Each metric tells us something different and we need all four to get the full picture of the SPV. 
 
+The SPV generally exists in two states: active and dissolved. Active is defined by the SPV having accepted capital and purchased the underlying asset. Dissolved is defined by having exited the asset. The SPV can exit the asset by either
+
 
 |   |  Leading |  Lagging |   
 |-|-|-|
@@ -23,6 +25,6 @@ How do we measure the performance of the SPV? We can use four different metrics 
 -   Show how secondaries can affect different metrics.
 -   Link to example Google Sheet.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDQxOTUxOCwxMjM5NzUzMTg0LC0xMz
-M1MDA0MDgwXX0=
+eyJoaXN0b3J5IjpbLTM3NTc3NTIyMywtMzMwNDE5NTE4LDEyMz
+k3NTMxODQsLTEzMzUwMDQwODBdfQ==
 -->
