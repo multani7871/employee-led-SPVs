@@ -4,6 +4,8 @@
 
 The channel should be
 
+ - Ideally free
+
 ## The universe of acquisition channels
  - Channels
 	 - Direct
@@ -28,10 +30,10 @@ The channel should be
 					 - Email sending
 						 - Sendgrid
 			 - LinkedIn
-				 - Connect requests
+				 - Connection requests
 					 - Employees will generally accept connection requests but they often don't respond when I send a message after the connection request.
 				 - Inmails
-					 - The response rate is usually around 10%. Some of those responses convert to meetings. Inmails can get expensive since LinkedIn requires a premium plan to send 
+					 - The response rate is usually around 10%. Some of those responses convert to meetings. Inmails can get expensive since LinkedIn requires a premium plan to send then in a meaningful quantity and to also buy more once I hit the send limit. It's also difficult to impossible to get metrics on Inmails like open rates, cohort metrics, etc.
 				 - Posts that mention employees at a specific company
 					 - I have tried two iterations of this so far. In the first iteration, I also tag the CEO but I realized this doesn't make sense since the CEO only needs to be involved in the conversation once an employee is willing to lead an SPV. In the second iteration, I tag employees and see who views my profile. From there, I message the employee. This is operationally taxing since I or a virtual assistant has to manually find and tag each employee in the post.
 			 - Twitter
@@ -65,6 +67,6 @@ The channel should be
 		 - Google
 			 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDc5OTIzLC0xNzYwNzY3NDUsLTY0OT
-Y0ODUyMiw3MDAzMTY3MDVdfQ==
+eyJoaXN0b3J5IjpbLTE4MDA3ODE1MDksLTE3NjA3Njc0NSwtNj
+Q5NjQ4NTIyLDcwMDMxNjcwNV19
 -->
