@@ -11,6 +11,8 @@ How do we measure the performance of the SPV? We can use four different metrics 
 | **Time-dependent**  | Unrealized IRR | Realized IRR  |   
 
 
+
+
 -   DPI
     -   cash out divided by cash in
 -   TVPI
@@ -23,5 +25,6 @@ How do we measure the performance of the SPV? We can use four different metrics 
 -   Show how secondaries can affect different metrics.
 -   Link to example Google Sheet.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTc1MzE4NCwtMTMzNTAwNDA4MF19
+eyJoaXN0b3J5IjpbNTYyMDM1ODQ0LDEyMzk3NTMxODQsLTEzMz
+UwMDQwODBdfQ==
 -->
