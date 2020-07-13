@@ -2,7 +2,7 @@
 
 ## What defines a good acquisition channel for employee led SPVs?
 
-The channel should 
+The channel should be
 
 ## The universe of acquisition channels
  - Channels
@@ -19,6 +19,9 @@ The channel should
 						 - Streak
 				 - 
 			 - LinkedIn
+				 - Connect requests
+				 - Inmails
+				 - Posts that mention employees at a specific company
 			 - Twitter
 				 - DMs
 				 - Tweets
@@ -27,9 +30,11 @@ The channel should
 	 - Indirect
 		 - Referrals
 			 - General
+				 - Carry share program
 			 - Specialists
 				 - Recruiters
 				 - RIAs/Wealth Managers
+					 - May not be able to accept carry for referrals due to regulatory restrictions
 				 - CPAs/Accountants
 				 - Employment lawyers that focus on startup employees
 	 - Paid Advertising
@@ -39,5 +44,5 @@ The channel should
 		 - Google
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwMzE2NzA1XX0=
+eyJoaXN0b3J5IjpbLTY0OTY0ODUyMiw3MDAzMTY3MDVdfQ==
 -->
