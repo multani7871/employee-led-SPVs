@@ -17,7 +17,10 @@ The channel should be
 					 - Drip campaigns/mail merge
 						 - Apollo
 						 - Streak
-				 - 
+					 - Email sending
+						 - Sendgrid
+				 - Strategy
+					 - 
 			 - LinkedIn
 				 - Connect requests
 				 - Inmails
@@ -44,5 +47,6 @@ The channel should be
 		 - Google
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTY0ODUyMiw3MDAzMTY3MDVdfQ==
+eyJoaXN0b3J5IjpbLTcxMDMxNjk0NCwtNjQ5NjQ4NTIyLDcwMD
+MxNjcwNV19
 -->
