@@ -5,11 +5,11 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
 How do we measure the performance of the SPV? We can use four different metrics to measure the performance of an SPV. Each metric tells us something different and we need all four to get the full picture of the SPV. 
 
 
-|   |  Leading |  Lagging |   | 
+|   |  Leading |  Lagging |   
 |---|---|---|---|---|
-| Time-independent  | TVPI  | DPI  |   | 
-| Time-dependent  | Unrealized IRR | Realized IRR  |   |     
-|   |   |   |   |   
+| **Time-independent**  | TVPI  | DPI  |   
+| **Time-dependent**  | Unrealized IRR | Realized IRR  |   
+
 
 -   DPI
     -   cash out divided by cash in
@@ -23,5 +23,6 @@ How do we measure the performance of the SPV? We can use four different metrics 
 -   Show how secondaries can affect different metrics.
 -   Link to example Google Sheet.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzUwMDQwODBdfQ==
+eyJoaXN0b3J5IjpbLTE2MDMxNDE5NTIsLTEzMzUwMDQwODBdfQ
+==
 -->
