@@ -8,8 +8,12 @@ The channel should be
  - Channels
 	 - Direct
 		 - Inbound
-			 - Introductions from 1
-		 - Cold outreach
+			 - Introductions from 1st degree contacts
+			 - Newsletter subscribers
+		 - Warm outbound
+			 - Requesting introductions (without offering carry share)
+				 - This usually results in a few meetings but has not converted to deals in a meaningful way yet
+		 - Cold outbound
 			 - Email
 				 - Strategy
 					 - I tried reaching out to every employee at a number of VC backed startups across the spectrum from Series A to pre-IPO. I saw fairly high open rates but did not get many responses. 
@@ -58,6 +62,6 @@ The channel should be
 		 - Google
 			 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxMTk4NjIsLTY0OTY0ODUyMiw3MDAzMT
-Y3MDVdfQ==
+eyJoaXN0b3J5IjpbLTE3NjA3Njc0NSwtNjQ5NjQ4NTIyLDcwMD
+MxNjcwNV19
 -->
