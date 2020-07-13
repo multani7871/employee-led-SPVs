@@ -11,13 +11,6 @@ How do we measure the performance of the SPV? We can use four different metrics 
 | **Time-dependent**  | Unrealized IRR | Realized IRR  |   
 
 
-|   | Second Header | dfsfs|
-| ------------- | ------------- | ---|
-| Content Cell  | Content Cell  |ds |
-| Content Cell  | Content Cell  | s|
-
-
-
 -   DPI
     -   cash out divided by cash in
 -   TVPI
@@ -30,6 +23,6 @@ How do we measure the performance of the SPV? We can use four different metrics 
 -   Show how secondaries can affect different metrics.
 -   Link to example Google Sheet.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQwNDA5MTQsMTIzOTc1MzE4NCwtMT
-MzNTAwNDA4MF19
+eyJoaXN0b3J5IjpbLTMzMDQxOTUxOCwxMjM5NzUzMTg0LC0xMz
+M1MDA0MDgwXX0=
 -->
