@@ -10,7 +10,12 @@ How do we measure the performance of the SPV? We can use four different metrics 
 | **Time-independent**  | TVPI  | DPI  |   
 | **Time-dependent**  | Unrealized IRR | Realized IRR  |   
 
-
+```gherkin
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+```
 
 
 -   DPI
@@ -25,6 +30,6 @@ How do we measure the performance of the SPV? We can use four different metrics 
 -   Show how secondaries can affect different metrics.
 -   Link to example Google Sheet.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyMDM1ODQ0LDEyMzk3NTMxODQsLTEzMz
-UwMDQwODBdfQ==
+eyJoaXN0b3J5IjpbMTEyODE0NDc4MiwxMjM5NzUzMTg0LC0xMz
+M1MDA0MDgwXX0=
 -->
