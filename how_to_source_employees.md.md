@@ -25,12 +25,13 @@ The channel should be
 				 - Connect requests
 					 - Employees will generally accept connection requests but they often don't respond when I send a message after the connection request.
 				 - Inmails
-					 - 
+					 - The response rate is usually around 10% but 
 				 - Posts that mention employees at a specific company
 			 - Twitter
 				 - DMs
 				 - Tweets
 					 - Mentioning one employee
+						 - I haven't tried this yet
 					 - Mentioning multiple employees
 	 - Indirect
 		 - Referrals
@@ -44,11 +45,14 @@ The channel should be
 				 - Employment lawyers that focus on startup employees
 	 - Paid Advertising
 		 - Linkedin
+			 - I haven't run any experiments yet
 		 - Twitter
+			 - I haven't run any experiments yet 
 		 - Facebook
+			 - I haven't run any experiments yet
 		 - Google
-
+			 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTIzNTYyOTIsLTY0OTY0ODUyMiw3MD
+eyJoaXN0b3J5IjpbLTE1MzI5MDAzOTYsLTY0OTY0ODUyMiw3MD
 AzMTY3MDVdfQ==
 -->
