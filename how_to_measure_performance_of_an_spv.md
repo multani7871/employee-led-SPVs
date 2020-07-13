@@ -6,7 +6,7 @@ How do we measure the performance of the SPV? We can use four different metrics 
 
 
 |   |  Leading |  Lagging |   
-|---|---|---|---|---|
+|-|-|-|-|-|
 | **Time-independent**  | TVPI  | DPI  |   
 | **Time-dependent**  | Unrealized IRR | Realized IRR  |   
 
@@ -23,6 +23,5 @@ How do we measure the performance of the SPV? We can use four different metrics 
 -   Show how secondaries can affect different metrics.
 -   Link to example Google Sheet.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMxNDE5NTIsLTEzMzUwMDQwODBdfQ
-==
+eyJoaXN0b3J5IjpbMTIzOTc1MzE4NCwtMTMzNTAwNDA4MF19
 -->
