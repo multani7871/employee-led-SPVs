@@ -11,8 +11,8 @@ The channel should be
 			 - Introductions from 1st degree contacts
 			 - Newsletter subscribers
 		 - Warm outbound
-			 - Requesting introductions (without offering carry share)
-				 - This usually results in a few meetings but has not converted to deals in a meaningful way yet
+			 - I request introductions to 2nd degree contacts without offering to share carry with the introducer.
+				 - This usually results in a few meetings but has not converted to deals in a meaningful way yet. I also used this tactic before I began splitting the carry with the employee. So I would not have had. w
 		 - Cold outbound
 			 - Email
 				 - Strategy
@@ -62,6 +62,6 @@ The channel should be
 		 - Google
 			 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA3Njc0NSwtNjQ5NjQ4NTIyLDcwMD
-MxNjcwNV19
+eyJoaXN0b3J5IjpbLTEwNTg5MzM0OTQsLTE3NjA3Njc0NSwtNj
+Q5NjQ4NTIyLDcwMDMxNjcwNV19
 -->
