@@ -25,9 +25,9 @@ The SPV generally exists in two states: active and dissolved. Active is defined 
 -   Show how secondaries can affect different metrics.
 -   Link to example Google Sheet
 
-Reasonable 
+Reasonable performance expectations based on company's stage
 - [https://twitter.com/HarveyMultani/status/1278715380500963330](https://twitter.com/HarveyMultani/status/1278715380500963330)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNzc4MjE1LDIwMzIwNTgwOTUsLTMzMD
-QxOTUxOCwxMjM5NzUzMTg0LC0xMzM1MDA0MDgwXX0=
+eyJoaXN0b3J5IjpbLTIwOTk3MDgyMjMsMjAzMjA1ODA5NSwtMz
+MwNDE5NTE4LDEyMzk3NTMxODQsLTEzMzUwMDQwODBdfQ==
 -->
