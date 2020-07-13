@@ -11,8 +11,8 @@ The channel should be
 			 - Introductions from 1st degree contacts
 			 - Newsletter subscribers
 		 - Warm outbound
-			 - I request introductions to 2nd degree contacts without offering to share carry with the introducer.
-				 - This usually results in a few meetings but has not converted to deals in a meaningful way yet. I also used this tactic before I began splitting the carry with the employee. So I would not have had. w
+			 - I request introductions to 2nd degree contacts without offering to share carry with the referrer.
+				 - This usually results in a few meetings but has not converted to deals in a meaningful way yet. I also used this tactic before I began splitting the carry with the employee. So I would not have had any carry to split with the referrer.
 		 - Cold outbound
 			 - Email
 				 - Strategy
@@ -33,6 +33,7 @@ The channel should be
 				 - Inmails
 					 - The response rate is usually around 10% but 
 				 - Posts that mention employees at a specific company
+					 - I have tried two iterations of this so far. In the first iteration, I also tag the CEO but I realized this doesn't make sense since the CEO only 
 			 - Twitter
 				 - DMs
 					 - I've tried this with engineering and product leaders. I have received virtually no responses
@@ -51,7 +52,9 @@ The channel should be
 				 - RIAs/Wealth Managers
 					 - May not be able to accept carry for referrals due to regulatory restrictions
 				 - CPAs/Accountants
+					 - I will investigate if they can receive carry for introductions
 				 - Employment lawyers that focus on startup employees
+					 - I will investigate if they can receive carry for introductions
 	 - Paid Advertising
 		 - Linkedin
 			 - I haven't run any experiments yet
@@ -62,6 +65,6 @@ The channel should be
 		 - Google
 			 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg5MzM0OTQsLTE3NjA3Njc0NSwtNj
+eyJoaXN0b3J5IjpbLTEyNDU1MjYyNTQsLTE3NjA3Njc0NSwtNj
 Q5NjQ4NTIyLDcwMDMxNjcwNV19
 -->
