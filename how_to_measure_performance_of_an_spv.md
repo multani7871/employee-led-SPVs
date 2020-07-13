@@ -24,8 +24,10 @@ The SPV generally exists in two states: active and dissolved. Active is defined 
 -   Example calculations.
 -   Show how secondaries can affect different metrics.
 -   Link to example Google Sheet
+
+Reasonable 
 - [https://twitter.com/HarveyMultani/status/1278715380500963330](https://twitter.com/HarveyMultani/status/1278715380500963330)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjA1ODA5NSwtMzMwNDE5NTE4LDEyMz
-k3NTMxODQsLTEzMzUwMDQwODBdfQ==
+eyJoaXN0b3J5IjpbMzMwNzc4MjE1LDIwMzIwNTgwOTUsLTMzMD
+QxOTUxOCwxMjM5NzUzMTg0LC0xMzM1MDA0MDgwXX0=
 -->
