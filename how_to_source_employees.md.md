@@ -33,12 +33,14 @@ The channel should be
 					 - Mentioning one employee
 						 - I haven't tried this yet
 					 - Mentioning multiple employees
+						  - I haven't tried this yet
 	 - Indirect
 		 - Referrals
 			 - General
 				 - Carry share program
-			 - Specialists
+			 - Specialist segments
 				 - Recruiters
+					 - I spoke with a few recruiters about this but haven't heard from them since the initial conversation or message threads.
 				 - RIAs/Wealth Managers
 					 - May not be able to accept carry for referrals due to regulatory restrictions
 				 - CPAs/Accountants
@@ -53,6 +55,6 @@ The channel should be
 		 - Google
 			 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI5MDAzOTYsLTY0OTY0ODUyMiw3MD
+eyJoaXN0b3J5IjpbLTE4NDI1NjExOTcsLTY0OTY0ODUyMiw3MD
 AzMTY3MDVdfQ==
 -->
