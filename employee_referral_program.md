@@ -1,7 +1,11 @@
 # Paid Referral Program: Employee led SPVs
-Sourcing startup employees who are willing to lead SPVs into their employers is my highest priority. I am willing to pay in the form of carry to acquire those employees.
+Sourcing startup employees who are willing to lead SPVs into their employers is my highest priority. I am willing to pay in the form of carry to acquire those employees
 
-**From July 14, 2020 to August 15, 2020**, I am willing to split my half of the carry with anyone who refers an employee who then goes on to lead an SPV. For example:
+**From July 14, 2020 to August 15, 2020**, I am willing to split my half of the carry with anyone who refers an employee who then goes on to lead an SPV. 
+
+Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08) to submit a referral
+
+For example:
 
 1.  If the SPV is charging the industry standard of 20% carry
 	2. The employee earns 10%
@@ -12,12 +16,12 @@ Sourcing startup employees who are willing to lead SPVs into their employers is 
     2.  $500k goes to the referrer
     3.  $500k goes to me
 
-Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08) to submit a referral
+**Note:** there may be cases where an employee would like to share carry with an additional co-leads beyond just me. In those cases, you the referrer and I will split what would otherwise have been my portion.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTc2NDM0MiwtNTcxMDE5MzkzLDE5MD
-E5MDM2ODQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEzODIyODM3NTMsLTU3MTAxOTM5MywxOT
+AxOTAzNjg0LC0yMDg4NzQ2NjEyXX0=
 -->
