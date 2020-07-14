@@ -16,7 +16,8 @@ For example:
 
 Employee criteria:
  - They must be working full time at a US based venture capital backed startup
- - The startup must have raised at least a Series A. Referrals at Pre-Series A companies will be accepted at my discretion
+ - The startup must have raised at least a Series A. Referrals at Pre-Series A companies will be accepted at my discretion.
+ - The employee must reasonably intend to be at their employer for at least a year.
 
 Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08) to submit a referral
 
@@ -28,7 +29,7 @@ Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI2NjgzODksLTk5Njk1Mzc1NCwtMj
-I1NjAyOTkzLC01NzEwMTkzOTMsMTkwMTkwMzY4NCwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbLTM1MjUwMDczNywtOTk2OTUzNzU0LC0yMj
+U2MDI5OTMsLTU3MTAxOTM5MywxOTAxOTAzNjg0LC0yMDg4NzQ2
+NjEyXX0=
 -->
