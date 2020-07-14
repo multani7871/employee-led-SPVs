@@ -1,7 +1,7 @@
 # Paid Referral Program: Employee led SPVs
-Sourcing startup employees who are willing to lead SPVs into their employers is my highest priority. I am willing to pay in the form of carry to acquire those employees
+Sourcing startup employees who are willing to lead SPVs into their employers is my highest priority. I am willing to pay to acquire those employees
 
-**From July 14, 2020 to August 15, 2020**, I am willing to split my half of the carry with anyone who refers an employee who then goes on to lead an SPV. 
+**From July 14, 2020 to August 15, 2020**, I will split my portion of the total carry with anyone who refers an employee who then goes on to lead an SPV with me. 
 
 Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08) to submit a referral
 
@@ -22,6 +22,6 @@ For example:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTYwMjk5MywtNTcxMDE5MzkzLDE5MD
-E5MDM2ODQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTk5Njk1Mzc1NCwtMjI1NjAyOTkzLC01Nz
+EwMTkzOTMsMTkwMTkwMzY4NCwtMjA4ODc0NjYxMl19
 -->
