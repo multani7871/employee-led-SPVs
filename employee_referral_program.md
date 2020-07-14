@@ -1,5 +1,5 @@
 # Paid Referral Program: Employee led SPVs
-Sourcing startup employees who are willing to lead SPVs into their employers is my highest priority. I am willing 
+Sourcing startup employees who are willing to lead SPVs into their employers is my highest priority. I am willing to pay in the form of carry to acquire those employees.
 
 My current compensation structure is a 50/50 carry split with the employee. 
 For example:
@@ -22,9 +22,11 @@ From July 14, 2020 to August 15, 2020, I am willing to split my half of the carr
     2.  $500k goes to the referrer
     3.  $500k goes to me
 
+To submit a referral, please complete this form
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjE0OTM0OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTkwMTkwMzY4NCwtMjA4ODc0NjYxMl19
 -->
