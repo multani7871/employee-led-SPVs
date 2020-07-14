@@ -16,12 +16,12 @@ For example:
     2.  $500k goes to the referrer
     3.  $500k goes to me
 
-**Note:** there may be cases where an employee would like to share carry with an additional co-leads beyond just me. In those cases, you the referrer and I will split what would otherwise have been my portion.
+**Note:** there may be cases where an employee would like to share carry with additional co-leads beyond just me. In those cases, the referrer and I will split my share 50/50. 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODIyODM3NTMsLTU3MTAxOTM5MywxOT
-AxOTAzNjg0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIyNTYwMjk5MywtNTcxMDE5MzkzLDE5MD
+E5MDM2ODQsLTIwODg3NDY2MTJdfQ==
 -->
