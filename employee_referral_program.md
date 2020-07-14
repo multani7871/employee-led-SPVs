@@ -18,7 +18,7 @@ Employee criteria:
  - They must be working full time at a US based venture capital backed startup
  - The startup must have raised at least a Series A. Referrals at Pre-Series A companies will be accepted at my discretion.
  - The employee must reasonably intend to be at their employer for at least a year.
- - The referrer and the employee must have read the [Employee's Guide to Employee Led SPVs](https://harveymultani.substack.com/p/startup-employee-syndicates-multiply) before making the introduction.
+ - The referrer and the employee must have read the [Employee's Guide to Employee Led SPVs](https://harveymultani.substack.com/p/startup-employee-syndicates-multiply) before making the referral.
 
 Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08) to submit a referral
 
@@ -30,7 +30,7 @@ Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjg5OTI5MiwtMzUyNTAwNzM3LC05OT
-Y5NTM3NTQsLTIyNTYwMjk5MywtNTcxMDE5MzkzLDE5MDE5MDM2
-ODQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE2Mjk1Mjg5OTMsMTQyMjg5OTI5MiwtMz
+UyNTAwNzM3LC05OTY5NTM3NTQsLTIyNTYwMjk5MywtNTcxMDE5
+MzkzLDE5MDE5MDM2ODQsLTIwODg3NDY2MTJdfQ==
 -->
