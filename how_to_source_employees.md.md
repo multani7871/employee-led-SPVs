@@ -45,6 +45,10 @@ The optimal channel should ideally be
 				 - Mentioning multiple employees
 					  - I haven't tried this yet
  - Indirect
+	 - Press
+		 - Podcast interviews
+		 - Async interviews
+		 - YouTuber type interview
 	 - Referrals
 		 - General
 			 - Carry share program
@@ -67,6 +71,7 @@ The optimal channel should ideally be
 	 - Google
 		 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDA0Mzk0MCwtNDQ5Mzc0MiwtMTc2MD
-c2NzQ1LC02NDk2NDg1MjIsNzAwMzE2NzA1XX0=
+eyJoaXN0b3J5IjpbLTE5ODY5MjAyNSwxODA0MDQzOTQwLC00ND
+kzNzQyLC0xNzYwNzY3NDUsLTY0OTY0ODUyMiw3MDAzMTY3MDVd
+fQ==
 -->
