@@ -9,9 +9,16 @@ Like problem solving and also highly value fast feedback loops. Work on things w
 Long feedback loops plus requires interacting with lots of new people. Inherently a relationship business. 
 
 What are the areas of responsibility
--Sourcing employees
--Sour
+
+ - Sourcing employees
+ - Sourcing allocations
+ - Fundraising
+	 - Helping employees raise from their networks
+	 - Raising capital from syndicate members
+		 - Sourcing new syndicate members
+		 - Strengthening relationships with existing syndicate memb
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODk1NDA5OTUsMTMwMjM2MzQ1OSwxMD
-Y5Nzg2Njc0XX0=
+eyJoaXN0b3J5IjpbMTk0Mjg0MDA4MywxMzAyMzYzNDU5LDEwNj
+k3ODY2NzRdfQ==
 -->
