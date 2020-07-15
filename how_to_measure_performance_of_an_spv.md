@@ -28,9 +28,18 @@ The SPV generally exists in two states: active and dissolved. Active is defined 
 Reasonable performance expectations based on company's stage
 - [https://twitter.com/HarveyMultani/status/1278715380500963330](https://twitter.com/HarveyMultani/status/1278715380500963330)
 
-Exa
+Examples from founder run public former VC backed companies with 10 years of data
+-Tesla
+-Amazon
+-Facebook
+Private stock trajectory exampl from private companies that recently exited
+-Slack
+-Zoom
+-Lyft
+-
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MDkwOTcsLTIwOTk3MDgyMjMsMjAzMj
-A1ODA5NSwtMzMwNDE5NTE4LDEyMzk3NTMxODQsLTEzMzUwMDQw
-ODBdfQ==
+eyJoaXN0b3J5IjpbMTM5MzAxNTMyNywtMjA5OTcwODIyMywyMD
+MyMDU4MDk1LC0zMzA0MTk1MTgsMTIzOTc1MzE4NCwtMTMzNTAw
+NDA4MF19
 -->
