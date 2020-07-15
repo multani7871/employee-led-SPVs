@@ -27,7 +27,10 @@ The SPV generally exists in two states: active and dissolved. Active is defined 
 
 Reasonable performance expectations based on company's stage
 - [https://twitter.com/HarveyMultani/status/1278715380500963330](https://twitter.com/HarveyMultani/status/1278715380500963330)
+
+Exa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk3MDgyMjMsMjAzMjA1ODA5NSwtMz
-MwNDE5NTE4LDEyMzk3NTMxODQsLTEzMzUwMDQwODBdfQ==
+eyJoaXN0b3J5IjpbMzE1MDkwOTcsLTIwOTk3MDgyMjMsMjAzMj
+A1ODA5NSwtMzMwNDE5NTE4LDEyMzk3NTMxODQsLTEzMzUwMDQw
+ODBdfQ==
 -->
