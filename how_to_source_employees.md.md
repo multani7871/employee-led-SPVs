@@ -48,7 +48,8 @@ The optimal channel should ideally be
 	 - Press
 		 - Podcast interviews
 		 - Async interviews
-		 - YouTuber type interview
+		 - YouTuber type interviews
+		 - In-person panels/speaking
 	 - Referrals
 		 - General
 			 - Carry share program
@@ -71,7 +72,7 @@ The optimal channel should ideally be
 	 - Google
 		 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY5MjAyNSwxODA0MDQzOTQwLC00ND
-kzNzQyLC0xNzYwNzY3NDUsLTY0OTY0ODUyMiw3MDAzMTY3MDVd
-fQ==
+eyJoaXN0b3J5IjpbLTEyNTc1OTg0NzYsMTgwNDA0Mzk0MCwtND
+Q5Mzc0MiwtMTc2MDc2NzQ1LC02NDk2NDg1MjIsNzAwMzE2NzA1
+XX0=
 -->
