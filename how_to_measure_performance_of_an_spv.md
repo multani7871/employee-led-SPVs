@@ -32,14 +32,14 @@ Examples from founder run public former VC backed companies with 10 years of dat
 -Tesla
 -Amazon
 -Facebook
-Private stock trajectory exampl from private companies that recently exited
+Private stock trajectory examples from private companies that recently exited
 -Slack
 -Zoom
 -Lyft
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzAxNTMyNywtMjA5OTcwODIyMywyMD
-MyMDU4MDk1LC0zMzA0MTk1MTgsMTIzOTc1MzE4NCwtMTMzNTAw
-NDA4MF19
+eyJoaXN0b3J5IjpbLTIwNzQ4NzAzODcsLTIwOTk3MDgyMjMsMj
+AzMjA1ODA5NSwtMzMwNDE5NTE4LDEyMzk3NTMxODQsLTEzMzUw
+MDQwODBdfQ==
 -->
