@@ -11,14 +11,22 @@ Long feedback loops plus requires interacting with lots of new people. Inherentl
 What are the areas of responsibility
 
  - Sourcing employees
+	 - Guide
  - Sourcing allocations
+	 - Educating CEOs/Boards
+	 - Negotiating terms
  - Fundraising
 	 - Helping employees raise from their networks
 	 - Raising capital from syndicate members
 		 - Sourcing new syndicate members
-		 - Strengthening relationships with existing syndicate memb
+		 - Strengthening relationships with existing syndicate members
+ - Product development
+	 - Partners
+		 - Fund admins
+		 - Fund counsel
+	 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Mjg0MDA4MywxMzAyMzYzNDU5LDEwNj
-k3ODY2NzRdfQ==
+eyJoaXN0b3J5IjpbLTIwNzc1Njc0MDEsMTMwMjM2MzQ1OSwxMD
+Y5Nzg2Njc0XX0=
 -->
