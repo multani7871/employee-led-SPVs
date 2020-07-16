@@ -44,6 +44,7 @@ I haven't tried anything active here yet beyond the Scout program.
 		-  I haven't tried this yet
 	- Mentioning multiple employees
 		- I haven't tried this yet
+
 ### Indirect
 #### Press
 - Podcast interviews
@@ -72,7 +73,7 @@ I haven't tried anything active here yet beyond the Scout program.
  - Google
 	 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNjYwMjUzLDE4Mjc4NDgyNTIsMTgwND
-A0Mzk0MCwtNDQ5Mzc0MiwtMTc2MDc2NzQ1LC02NDk2NDg1MjIs
-NzAwMzE2NzA1XX0=
+eyJoaXN0b3J5IjpbMTE4NDU5NDY3LDgyMTY2MDI1MywxODI3OD
+Q4MjUyLDE4MDQwNDM5NDAsLTQ0OTM3NDIsLTE3NjA3Njc0NSwt
+NjQ5NjQ4NTIyLDcwMDMxNjcwNV19
 -->
