@@ -1,4 +1,4 @@
-# Paid Referral Program: Employee led SPVs
+# Scout Program: Employee led SPVs
 Sourcing startup employees who are willing to lead SPVs into their employers is my highest priority. I am willing to pay to acquire those employees
 
 **From July 14, 2020 to August 15, 2020**, I will split my portion of the total carry with anyone who refers an employee who then goes on to lead an SPV with me. 
