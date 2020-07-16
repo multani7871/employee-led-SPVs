@@ -29,6 +29,12 @@ Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08
 - Modern Treasury
 - Particle Health
 - Very Good Security
+- Retool
+- Hummingbird
+
+**Notes:** 
+
+ - There may be cases where an employee would like to share carry with additional co-leads beyond just me. In those cases, the referrer and I will split my share 50/50. 
 
 # Disclaimer
 
@@ -42,7 +48,7 @@ All Content on this site is information of a general nature and does not address
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDI2OTY0NiwxMTk0NDkzMzc1LC0xNz
+eyJoaXN0b3J5IjpbLTg1MjM5Nzk1NCwxMTk0NDkzMzc1LC0xNz
 U3OTcwOTcyLDE0MjI4OTkyOTIsLTM1MjUwMDczNywtOTk2OTUz
 NzU0LC0yMjU2MDI5OTMsLTU3MTAxOTM5MywxOTAxOTAzNjg0LC
 0yMDg4NzQ2NjEyXX0=
