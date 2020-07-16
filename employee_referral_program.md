@@ -28,7 +28,7 @@ Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08
 
 ## Target companies
 
-These are companies that I'm especially interested in. Please feel free to make referrals to companies that are not on this list.
+These are companies that I'm especially interested in. 
 
 - Vercel
 - Webflow
@@ -51,7 +51,7 @@ All Content on this site is information of a general nature and does not address
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTY2MTQ1OCwtODUyMzk3OTU0LDExOT
+eyJoaXN0b3J5IjpbLTc1MDIxOTY2MiwtODUyMzk3OTU0LDExOT
 Q0OTMzNzUsLTE3NTc5NzA5NzIsMTQyMjg5OTI5MiwtMzUyNTAw
 NzM3LC05OTY5NTM3NTQsLTIyNTYwMjk5MywtNTcxMDE5MzkzLD
 E5MDE5MDM2ODQsLTIwODg3NDY2MTJdfQ==
