@@ -22,6 +22,13 @@ Employee criteria:
 
 Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08) to submit a referral
 
+## Target companies
+- Vercel
+- Webflow
+- Deepgram
+- Modern Treasury
+- Pqrti
+
 **Notes:** 
 
  - There may be cases where an employee would like to share carry with additional co-leads beyond just me. In those cases, the referrer and I will split my share 50/50. 
@@ -30,7 +37,8 @@ Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc5NzA5NzIsMTQyMjg5OTI5MiwtMz
-UyNTAwNzM3LC05OTY5NTM3NTQsLTIyNTYwMjk5MywtNTcxMDE5
-MzkzLDE5MDE5MDM2ODQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbOTA4ODg4NTkzLC0xNzU3OTcwOTcyLDE0Mj
+I4OTkyOTIsLTM1MjUwMDczNywtOTk2OTUzNzU0LC0yMjU2MDI5
+OTMsLTU3MTAxOTM5MywxOTAxOTAzNjg0LC0yMDg4NzQ2NjEyXX
+0=
 -->
