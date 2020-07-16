@@ -12,11 +12,11 @@ Types of board members at VC backed companies
  - Lead investor of each funding round
  - Independent
 
-Common to all board members:
-
-Fiduciary duties
- - Duty of care
+Every board member has two core fiduciary duties
+- Duty of care
+	 - 
  - Duty of loyalty
+	 - 
 
 How are board members compensated for these duties and the extra liability they entail?
 - CEO/co-founders
@@ -24,7 +24,7 @@ How are board members compensated for these duties and the extra liability they 
 - Lead investors
 	- Carried interest and management fees.  The investors' LPs pay these fees.
 - Independent directors
-	- The company will compensate the independent directors. Sometimes 0.5%-2% equity, which drops as the company grows. The company may sometimes compensate with cash in addition t
+	- The company will compensate the independent directors. Sometimes 0.5%-2% equity, which drops as the company grows. The company may sometimes compensate with cash in addition to the equity.
 
 Meeting frequency - quarterly
 
@@ -34,5 +34,5 @@ Resources
  - [https://techcrunch.com/2016/11/05/what-you-need-to-know-about-startup-boards/](https://techcrunch.com/2016/11/05/what-you-need-to-know-about-startup-boards/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDg3MjQ1MywtMzM4OTY5NDQ2XX0=
+eyJoaXN0b3J5IjpbLTE4MDk2OTYyNDgsLTMzODk2OTQ0Nl19
 -->
