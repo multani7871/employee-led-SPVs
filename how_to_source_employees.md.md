@@ -51,28 +51,28 @@ I haven't tried anything active here yet beyond the Scout program.
 - YouTuber type interviews
 - In-person panels/speaking
 #### Referrals
-		 - General
-			 - Carry share program
-		 - Specialist segments
-			 - Recruiters
-				 - I spoke with a few recruiters about this but haven't heard from them since the initial conversation or message threads.
-			 - RIAs/Wealth Managers
-				 - May not be able to accept carry for referrals due to regulatory restrictions
-			 - CPAs/Accountants
-				 - I will investigate if they can receive carry for introductions
-			 - Employment lawyers that focus on startup employees
-				 - I will investigate if they can receive carry for introductions
- - Paid Advertising
-	 - Linkedin
-		 - I haven't run any experiments yet
-	 - Twitter
-		 - I haven't run any experiments yet 
-	 - Facebook
-		 - I haven't run any experiments yet
-	 - Google
-		 - I haven't run any experiments yet
+- General
+	 - Scout program
+ - Specialist segments
+	 - Recruiters
+		 - I spoke with a few recruiters about this but haven't heard from them since the initial conversation or message threads.
+	 - RIAs/Wealth Managers
+		 - May not be able to accept carry for referrals due to regulatory restrictions
+	 - CPAs/Accountants
+		 - I will investigate if they can receive carry for introductions
+	 - Employment lawyers that focus on startup employees
+		 - I will investigate if they can receive carry for introductions
+#### Paid Advertising
+ - Linkedin
+	 - I haven't run any experiments yet
+ - Twitter
+	 - I haven't run any experiments yet 
+ - Facebook
+	 - I haven't run any experiments yet
+ - Google
+	 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTY5NzksMTgyNzg0ODI1MiwxODA0MD
-QzOTQwLC00NDkzNzQyLC0xNzYwNzY3NDUsLTY0OTY0ODUyMiw3
-MDAzMTY3MDVdfQ==
+eyJoaXN0b3J5IjpbLTE0NDQyOTMyMzgsMTgyNzg0ODI1MiwxOD
+A0MDQzOTQwLC00NDkzNzQyLC0xNzYwNzY3NDUsLTY0OTY0ODUy
+Miw3MDAzMTY3MDVdfQ==
 -->
