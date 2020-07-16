@@ -11,15 +11,15 @@ The optimal channel should ideally be
 ### Direct
 #### Inbound
 ##### Introductions from 1st degree contacts
-		 - Newsletter subscribers
-	 ###### Warm outbound
-		 - I request introductions to 2nd degree contacts without offering to share carry with the referrer.
-			 - This usually results in a few meetings but has not converted to deals in a meaningful way yet. I also used this tactic before I began splitting the carry with the employee. So I would not have had any carry to split with the referrer.
+###### Newsletter subscribers
+###### Warm outbound
+
+I request introductions to 2nd degree contacts without offering to share carry with the referrer. This usually results in a few meetings but has not converted to deals in a meaningful way yet. I also used this tactic before I began splitting the carry with the employee. So I would not have had any carry to split with the referrer.
 			 - 
 #### Cold outbound
-		 - Email
-			 - Strategy
-				 - I tried reaching out to every employee at a number of VC backed startups across the spectrum from Series A to pre-IPO. I saw fairly high open rates but did not get many responses. 
+##### Email
+##### Strategy
+I tried reaching out to every employee at a number of VC backed startups across the spectrum from Series A to pre-IPO. I saw fairly high open rates but did not get many responses. 
 			 - Tooling
 				 - Prospecting
 					 - SalesQL
@@ -73,7 +73,7 @@ The optimal channel should ideally be
 	 - Google
 		 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzAyMTM0MTIsMTgwNDA0Mzk0MCwtND
-Q5Mzc0MiwtMTc2MDc2NzQ1LC02NDk2NDg1MjIsNzAwMzE2NzA1
-XX0=
+eyJoaXN0b3J5IjpbLTY5Njk1NzYxNCwxODA0MDQzOTQwLC00ND
+kzNzQyLC0xNzYwNzY3NDUsLTY0OTY0ODUyMiw3MDAzMTY3MDVd
+fQ==
 -->
