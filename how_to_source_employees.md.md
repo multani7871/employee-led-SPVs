@@ -47,8 +47,8 @@ I haven't tried anything active here yet beyond the Scout program.
 ### Indirect
 #### Press
 - Podcast interviews
-- Async interviews
-- YouTuber type interviews
+- Newsletter interviews
+- Video  interviews
 - In-person panels/speaking
 #### Referrals
 - General
@@ -72,7 +72,7 @@ I haven't tried anything active here yet beyond the Scout program.
  - Google
 	 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQyOTMyMzgsMTgyNzg0ODI1MiwxOD
-A0MDQzOTQwLC00NDkzNzQyLC0xNzYwNzY3NDUsLTY0OTY0ODUy
-Miw3MDAzMTY3MDVdfQ==
+eyJoaXN0b3J5IjpbODIxNjYwMjUzLDE4Mjc4NDgyNTIsMTgwND
+A0Mzk0MCwtNDQ5Mzc0MiwtMTc2MDc2NzQ1LC02NDk2NDg1MjIs
+NzAwMzE2NzA1XX0=
 -->
