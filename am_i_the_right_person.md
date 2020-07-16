@@ -1,4 +1,4 @@
-Am I the right person for this?
+Am I the right person to spearhead this?
 
 HEXACO profile - Google sheets link
 
@@ -13,7 +13,11 @@ What are the areas of responsibility
  - Sourcing employees
 	 - Guide
  - Sourcing allocations
-	 - Educating CEOs/Boards
+	 - Educating 
+	   - CEOs
+	   - Boards
+	   - CFOs
+	   - In-house and external counsel
 	 - Negotiating terms
  - Fundraising
 	 - Helping employees raise from their networks
@@ -27,6 +31,6 @@ What are the areas of responsibility
 	 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzc1Njc0MDEsMTMwMjM2MzQ1OSwxMD
-Y5Nzg2Njc0XX0=
+eyJoaXN0b3J5IjpbNzUxODUwOTYxLC0yMDc3NTY3NDAxLDEzMD
+IzNjM0NTksMTA2OTc4NjY3NF19
 -->
