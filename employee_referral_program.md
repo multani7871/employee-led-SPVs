@@ -22,7 +22,14 @@ Employee criteria:
 
 Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08) to submit a referral
 
+**Notes:** 
+
+ - There may be cases where an employee would like to share carry with additional co-leads beyond just me. In those cases, the referrer and I will split my share 50/50. 
+
 ## Target companies
+
+These are companies that I'm especially interested in. Please feel free to make referrals to companies that are not on this list.
+
 - Vercel
 - Webflow
 - Deepgram
@@ -31,10 +38,6 @@ Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08
 - Very Good Security
 - Retool
 - Hummingbird
-
-**Notes:** 
-
- - There may be cases where an employee would like to share carry with additional co-leads beyond just me. In those cases, the referrer and I will split my share 50/50. 
 
 # Disclaimer
 
@@ -48,7 +51,7 @@ All Content on this site is information of a general nature and does not address
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODU0MDExNywtODUyMzk3OTU0LDExOT
+eyJoaXN0b3J5IjpbMTgwOTY2MTQ1OCwtODUyMzk3OTU0LDExOT
 Q0OTMzNzUsLTE3NTc5NzA5NzIsMTQyMjg5OTI5MiwtMzUyNTAw
 NzM3LC05OTY5NTM3NTQsLTIyNTYwMjk5MywtNTcxMDE5MzkzLD
 E5MDE5MDM2ODQsLTIwODg3NDY2MTJdfQ==
