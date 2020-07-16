@@ -12,7 +12,7 @@ Types of board members at VC backed companies
  - Lead investor of each funding round
  - Independent
 
-Every board member has three core fiduciary duties
+Every board member has three core fiduciary duties:
 - Care
 	 - 
  - Loyalty
@@ -28,14 +28,13 @@ How are board members compensated for these duties and the extra liability they 
 - Independent directors
 	- The company will compensate the independent directors. Sometimes 0.5%-2% equity, which drops as the company grows. The company may sometimes compensate with cash in addition to the equity.
 
-Meeting frequency - quarterly
-
 
 
 Resources
  - [https://techcrunch.com/2016/11/05/what-you-need-to-know-about-startup-boards/](https://techcrunch.com/2016/11/05/what-you-need-to-know-about-startup-boards/)
  - [https://www.esoppartners.com/blog/bid/89198/Corporate-Governance-Duties-of-Care-Loyalty-and-Obedience](https://www.esoppartners.com/blog/bid/89198/Corporate-Governance-Duties-of-Care-Loyalty-and-Obedience)
+ - [https://www.upcounsel.com/board-of-directors-fiduciary-duty](https://www.upcounsel.com/board-of-directors-fiduciary-duty)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDYyODk4NiwtMzM4OTY5NDQ2XX0=
+eyJoaXN0b3J5IjpbLTIxMjM0ODIxNzEsLTMzODk2OTQ0Nl19
 -->
