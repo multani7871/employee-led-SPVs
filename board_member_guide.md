@@ -22,8 +22,9 @@ How are board members compensated for these duties and the extra liability they 
 - CEO/co-founders
 	- Common stock holdings
 - Lead investors
-	- Carried interest and management fees. Compensated by LPs. not by company.
-- Independent directors- compensated by company. Sometimes 0.5%-2% equity, dropping as company grows. Sometimes cash included.
+	- Carried interest and management fees.  The investors' LPs pay these fees.
+- Independent directors
+	- The company will compensate the independent directors. Sometimes 0.5%-2% equity, which drops as the company grows. The company may sometimes compensate with cash in addition t
 
 Meeting frequency - quarterly
 
@@ -33,5 +34,5 @@ Resources
  - [https://techcrunch.com/2016/11/05/what-you-need-to-know-about-startup-boards/](https://techcrunch.com/2016/11/05/what-you-need-to-know-about-startup-boards/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxMzE1MTMsLTMzODk2OTQ0Nl19
+eyJoaXN0b3J5IjpbMTIxNDg3MjQ1MywtMzM4OTY5NDQ2XX0=
 -->
