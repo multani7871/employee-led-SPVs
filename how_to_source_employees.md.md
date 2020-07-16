@@ -10,13 +10,10 @@ The optimal channel should ideally be
 ## The universe of acquisition channels
 ### Direct
 #### Inbound
-##### Introductions from 1st degree contacts
+###### Introductions from 1st degree contacts
+I requested introductions to 2nd degree contacts without offering to share carry with the referrer. This usually results in a few meetings but has not converted to deals in a meaningful way yet. I also used this tactic before I began splitting the carry with the employee. So I would not have had any carry to split with the referrer.
 ###### Newsletter subscribers
 I haven't tried anything active here yet beyond the Scout program.
-###### Warm outbound
-
-I request introductions to 2nd degree contacts without offering to share carry with the referrer. This usually results in a few meetings but has not converted to deals in a meaningful way yet. I also used this tactic before I began splitting the carry with the employee. So I would not have had any carry to split with the referrer.
-
 #### Cold outbound
 ##### Email
 - Strategy
@@ -38,6 +35,7 @@ I request introductions to 2nd degree contacts without offering to share carry w
 	 - The response rate is usually around 10%. Some of those responses convert to meetings. Inmails can get expensive since LinkedIn requires a premium plan to send then in a meaningful quantity and to also buy more once I hit the send limit. It's also difficult to impossible to get metrics on Inmails like open rates, cohort metrics, etc.
  - Posts that mention employees at a specific company
 	 - I have tried two iterations of this so far. In the first iteration, I also tag the CEO but I realized this doesn't make sense since the CEO only needs to be involved in the conversation once an employee is willing to lead an SPV. In the second iteration, I tag employees and see who views my profile. From there, I message the employee. This is operationally taxing since I or a virtual assistant has to manually find and tag each employee in the post.
+
 ##### Twitter
 - DMs
 	- I've tried this with engineering and product leaders. I have received virtually no responses
@@ -74,7 +72,7 @@ I request introductions to 2nd degree contacts without offering to share carry w
 	 - Google
 		 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzg0ODI1MiwxODA0MDQzOTQwLC00ND
-kzNzQyLC0xNzYwNzY3NDUsLTY0OTY0ODUyMiw3MDAzMTY3MDVd
-fQ==
+eyJoaXN0b3J5IjpbLTc5OTY5NzksMTgyNzg0ODI1MiwxODA0MD
+QzOTQwLC00NDkzNzQyLC0xNzYwNzY3NDUsLTY0OTY0ODUyMiw3
+MDAzMTY3MDVdfQ==
 -->
