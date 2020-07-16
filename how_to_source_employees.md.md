@@ -39,15 +39,15 @@ I request introductions to 2nd degree contacts without offering to share carry w
  - Posts that mention employees at a specific company
 		 - I have tried two iterations of this so far. In the first iteration, I also tag the CEO but I realized this doesn't make sense since the CEO only needs to be involved in the conversation once an employee is willing to lead an SPV. In the second iteration, I tag employees and see who views my profile. From there, I message the employee. This is operationally taxing since I or a virtual assistant has to manually find and tag each employee in the post.
 ##### Twitter
-			 - DMs
-				 - I've tried this with engineering and product leaders. I have received virtually no responses
-			 - Tweets
-				 - Mentioning one employee
-					 - I haven't tried this yet
-				 - Mentioning multiple employees
-					  - I haven't tried this yet
- - Indirect
-	 - Press
+- DMs
+	- I've tried this with engineering and product leaders. I have received virtually no responses
+-  Tweets
+	-  Mentioning one employee
+		-  I haven't tried this yet
+	- Mentioning multiple employees
+		- I haven't tried this yet
+### Indirect
+#### Press
 		 - Podcast interviews
 		 - Async interviews
 		 - YouTuber type interviews
@@ -74,7 +74,7 @@ I request introductions to 2nd degree contacts without offering to share carry w
 	 - Google
 		 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjM1NjU5NCwxODA0MDQzOTQwLC00ND
-kzNzQyLC0xNzYwNzY3NDUsLTY0OTY0ODUyMiw3MDAzMTY3MDVd
-fQ==
+eyJoaXN0b3J5IjpbLTUzNzUxNjk1LDE4MDQwNDM5NDAsLTQ0OT
+M3NDIsLTE3NjA3Njc0NSwtNjQ5NjQ4NTIyLDcwMDMxNjcwNV19
+
 -->
