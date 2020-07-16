@@ -37,7 +37,7 @@ I request introductions to 2nd degree contacts without offering to share carry w
  - Inmails
 	 - The response rate is usually around 10%. Some of those responses convert to meetings. Inmails can get expensive since LinkedIn requires a premium plan to send then in a meaningful quantity and to also buy more once I hit the send limit. It's also difficult to impossible to get metrics on Inmails like open rates, cohort metrics, etc.
  - Posts that mention employees at a specific company
-		 - I have tried two iterations of this so far. In the first iteration, I also tag the CEO but I realized this doesn't make sense since the CEO only needs to be involved in the conversation once an employee is willing to lead an SPV. In the second iteration, I tag employees and see who views my profile. From there, I message the employee. This is operationally taxing since I or a virtual assistant has to manually find and tag each employee in the post.
+	 - I have tried two iterations of this so far. In the first iteration, I also tag the CEO but I realized this doesn't make sense since the CEO only needs to be involved in the conversation once an employee is willing to lead an SPV. In the second iteration, I tag employees and see who views my profile. From there, I message the employee. This is operationally taxing since I or a virtual assistant has to manually find and tag each employee in the post.
 ##### Twitter
 - DMs
 	- I've tried this with engineering and product leaders. I have received virtually no responses
@@ -48,11 +48,11 @@ I request introductions to 2nd degree contacts without offering to share carry w
 		- I haven't tried this yet
 ### Indirect
 #### Press
-		 - Podcast interviews
-		 - Async interviews
-		 - YouTuber type interviews
-		 - In-person panels/speaking
-	 - Referrals
+- Podcast interviews
+- Async interviews
+- YouTuber type interviews
+- In-person panels/speaking
+#### Referrals
 		 - General
 			 - Carry share program
 		 - Specialist segments
@@ -74,7 +74,7 @@ I request introductions to 2nd degree contacts without offering to share carry w
 	 - Google
 		 - I haven't run any experiments yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzUxNjk1LDE4MDQwNDM5NDAsLTQ0OT
-M3NDIsLTE3NjA3Njc0NSwtNjQ5NjQ4NTIyLDcwMDMxNjcwNV19
-
+eyJoaXN0b3J5IjpbMTgyNzg0ODI1MiwxODA0MDQzOTQwLC00ND
+kzNzQyLC0xNzYwNzY3NDUsLTY0OTY0ODUyMiw3MDAzMTY3MDVd
+fQ==
 -->
