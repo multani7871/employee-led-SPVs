@@ -22,6 +22,8 @@ Employee criteria:
 
 Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08) to submit a referral
 
+- Bond Financial Technologies
+
 **Notes:** 
 
  - There may be cases where an employee would like to share carry with additional co-leads beyond just me. In those cases, the referrer and I will split my share 50/50. 
@@ -51,8 +53,9 @@ All Content on this site is information of a general nature and does not address
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDIxOTY2MiwtODUyMzk3OTU0LDExOT
-Q0OTMzNzUsLTE3NTc5NzA5NzIsMTQyMjg5OTI5MiwtMzUyNTAw
-NzM3LC05OTY5NTM3NTQsLTIyNTYwMjk5MywtNTcxMDE5MzkzLD
-E5MDE5MDM2ODQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTExMDEyMzczNDksLTc1MDIxOTY2MiwtOD
+UyMzk3OTU0LDExOTQ0OTMzNzUsLTE3NTc5NzA5NzIsMTQyMjg5
+OTI5MiwtMzUyNTAwNzM3LC05OTY5NTM3NTQsLTIyNTYwMjk5My
+wtNTcxMDE5MzkzLDE5MDE5MDM2ODQsLTIwODg3NDY2MTJdfQ==
+
 -->
