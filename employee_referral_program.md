@@ -34,13 +34,13 @@ Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08
 
  - There may be cases where an employee would like to share carry with additional co-leads beyond just me. In those cases, the referrer and I will split my share 50/50. 
 
-#
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDg1MDMzOCwtMTc1Nzk3MDk3MiwxND
+eyJoaXN0b3J5IjpbMTE5NDQ5MzM3NSwtMTc1Nzk3MDk3MiwxND
 IyODk5MjkyLC0zNTI1MDA3MzcsLTk5Njk1Mzc1NCwtMjI1NjAy
 OTkzLC01NzEwMTkzOTMsMTkwMTkwMzY4NCwtMjA4ODc0NjYxMl
 19
