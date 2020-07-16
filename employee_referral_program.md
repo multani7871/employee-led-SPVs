@@ -30,9 +30,11 @@ Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08
 - Particle Health
 - Very Good Security
 
-**Notes:** 
+# Disclaimer
 
- - There may be cases where an employee would like to share carry with additional co-leads beyond just me. In those cases, the referrer and I will split my share 50/50. 
+The Content is for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained on this site constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or other financial instruments in this or in any other jurisdiction in which such solicitation or offer would be unlawful under the securities laws of such jurisdiction.
+
+All Content on this site is information of a general nature and does not address the circumstances of any particular individual or entity. Nothing in the Site constitutes professional and/or financial advice, nor does any information on the Site constitute a comprehensive or complete statement of the matters discussed or the law relating thereto. You alone assume the sole responsibility of evaluating the merits and risks associated with the use of any information or other Content on the Site before making any decisions based on such information or other Content.
 
 
 
@@ -40,8 +42,8 @@ Please [complete this form](https://harveymultani902367.typeform.com/to/ZrDo7G08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDQ5MzM3NSwtMTc1Nzk3MDk3MiwxND
-IyODk5MjkyLC0zNTI1MDA3MzcsLTk5Njk1Mzc1NCwtMjI1NjAy
-OTkzLC01NzEwMTkzOTMsMTkwMTkwMzY4NCwtMjA4ODc0NjYxMl
-19
+eyJoaXN0b3J5IjpbLTg4NDI2OTY0NiwxMTk0NDkzMzc1LC0xNz
+U3OTcwOTcyLDE0MjI4OTkyOTIsLTM1MjUwMDczNywtOTk2OTUz
+NzU0LC0yMjU2MDI5OTMsLTU3MTAxOTM5MywxOTAxOTAzNjg0LC
+0yMDg4NzQ2NjEyXX0=
 -->
