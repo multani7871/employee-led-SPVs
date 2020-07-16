@@ -12,11 +12,13 @@ Types of board members at VC backed companies
  - Lead investor of each funding round
  - Independent
 
-Every board member has two core fiduciary duties
-- Duty of care
+Every board member has three core fiduciary duties
+- Care
 	 - 
- - Duty of loyalty
-	 - 
+ - Loyalty
+	 -
+ - Obedience
+	 -  
 
 How are board members compensated for these duties and the extra liability they entail?
 - CEO/co-founders
@@ -32,7 +34,8 @@ Meeting frequency - quarterly
 
 Resources
  - [https://techcrunch.com/2016/11/05/what-you-need-to-know-about-startup-boards/](https://techcrunch.com/2016/11/05/what-you-need-to-know-about-startup-boards/)
+ - [https://www.esoppartners.com/blog/bid/89198/Corporate-Governance-Duties-of-Care-Loyalty-and-Obedience](https://www.esoppartners.com/blog/bid/89198/Corporate-Governance-Duties-of-Care-Loyalty-and-Obedience)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk2OTYyNDgsLTMzODk2OTQ0Nl19
+eyJoaXN0b3J5IjpbMTgwNDYyODk4NiwtMzM4OTY5NDQ2XX0=
 -->
