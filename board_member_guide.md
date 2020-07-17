@@ -31,10 +31,12 @@ How are board members compensated for these duties and the extra liability they 
 
 
 Resources
+- https://mobile.twitter.com/HarveyMultani/status/1283639263523999750
  - [https://techcrunch.com/2016/11/05/what-you-need-to-know-about-startup-boards/](https://techcrunch.com/2016/11/05/what-you-need-to-know-about-startup-boards/)
  - [https://www.esoppartners.com/blog/bid/89198/Corporate-Governance-Duties-of-Care-Loyalty-and-Obedience](https://www.esoppartners.com/blog/bid/89198/Corporate-Governance-Duties-of-Care-Loyalty-and-Obedience)
  - [https://www.upcounsel.com/board-of-directors-fiduciary-duty](https://www.upcounsel.com/board-of-directors-fiduciary-duty)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM0ODIxNzEsLTMzODk2OTQ0Nl19
+eyJoaXN0b3J5IjpbLTY3ODIwODk3NywtMjEyMzQ4MjE3MSwtMz
+M4OTY5NDQ2XX0=
 -->
