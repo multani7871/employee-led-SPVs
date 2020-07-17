@@ -11,7 +11,7 @@ Long feedback loops plus requires interacting with lots of new people. Inherentl
 What are the areas of responsibility
 
  - Sourcing employees
-	 - Guide
+	 - Guide to sourcing employees
  - Sourcing allocations
 	 - Educating 
 	   - CEOs
@@ -21,6 +21,10 @@ What are the areas of responsibility
 	 - Negotiating terms
  - Fundraising
 	 - Helping employees raise from their networks
+	   - Strong ties
+	   - Weak ties
+	   - Second degree
+	   - Third degree
 	 - Raising capital from syndicate members
 		 - Sourcing new syndicate members
 		 - Strengthening relationships with existing syndicate members
@@ -31,6 +35,6 @@ What are the areas of responsibility
 	 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxODUwOTYxLC0yMDc3NTY3NDAxLDEzMD
-IzNjM0NTksMTA2OTc4NjY3NF19
+eyJoaXN0b3J5IjpbMTA5OTgwMTc5LDc1MTg1MDk2MSwtMjA3Nz
+U2NzQwMSwxMzAyMzYzNDU5LDEwNjk3ODY2NzRdfQ==
 -->
