@@ -1,4 +1,4 @@
-# employee-led-SPVs
+# Employee Led SPVs
 
 This is the source for https://harveymultani.substack.com/
 
