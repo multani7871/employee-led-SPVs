@@ -1,4 +1,4 @@
-Am I the right person to spearhead this?
+Am I the right person to spearhead this? What are the areas of responsibility and workflows?
 
 HEXACO profile - Google sheets link
 
@@ -35,6 +35,6 @@ What are the areas of responsibility
 	 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTgwMTc5LDc1MTg1MDk2MSwtMjA3Nz
-U2NzQwMSwxMzAyMzYzNDU5LDEwNjk3ODY2NzRdfQ==
+eyJoaXN0b3J5IjpbLTczODI0NDc5OSw3NTE4NTA5NjEsLTIwNz
+c1Njc0MDEsMTMwMjM2MzQ1OSwxMDY5Nzg2Njc0XX0=
 -->
