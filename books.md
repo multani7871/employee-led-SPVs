@@ -32,8 +32,12 @@
  - [The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 	 - How to navigate any for profit company
  - [The Great CEO Within](https://www.amazon.com/Great-CEO-Within-Tactical-Building-ebook/dp/B07ZLGQZYC/ref=sr_1_2?dchild=1&keywords=ceo%20within&qid=1595143316&s=digital-text&sr=1-2)
-
+	 - Must read if you work at a startup or are running one
+ - [Paul Graham's Essays](http://www.paulgraham.com/articles.html)
+	 - All gold
+ - [Breaking Smart](https://breakingsmart.com/en/season-1/)
+	 - Etho
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODE5Nzc5MiwxMTIxMzIxNDAxLDE3Mj
+eyJoaXN0b3J5IjpbMTc4OTEzNDU5NSwxMTIxMzIxNDAxLDE3Mj
 M5OTM5MSwxNDE3ODc0OTIyXX0=
 -->
