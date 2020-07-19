@@ -31,10 +31,6 @@
 	 - Becoming an efficiencer 
  - [The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 	 - How to navigate any for profit company
- - [The Great CEO Within](https://www.amazon.com/Great-CEO-Within-Tactical-Building-ebook/dp/B07ZLGQZYC/ref=sr_1_2?dchild=1&keywords=ceo%20within&qid=1595143316&s=digital-text&sr=1-2)
-	 - Must read if you work at a startup or are running one
- - [Paul Graham's Essays](http://www.paulgraham.com/articles.html)
-	 - All gold
  - [Breaking Smart](https://breakingsmart.com/en/season-1/)
 	 - Ethos of Silicon Valley
  -  The Goal: A Process of Ongoing Improvement
@@ -44,12 +40,19 @@
 	- Predictable Revenue
 	- From Impossible to Inevitable
 	- The New Strategic Selling
-	- 
 - The True Believer by Eric Hoffer
 - Thanks for the Feedback
 - A Mind for Numbers by Barbara Oakley
 - Bullshit Jobs
+- Startups
+	- The Startup Owner's Manual
+	- Disciplined Entrepreneurship: 24 Steps to a Successful Startup
+	- [The Great CEO Within](https://www.amazon.com/Great-CEO-Within-Tactical-Building-ebook/dp/B07ZLGQZYC/ref=sr_1_2?dchild=1&keywords=ceo%20within&qid=1595143316&s=digital-text&sr=1-2)
+		 - Must read if you work at a startup or are running one
+ - [Paul Graham's Essays](http://www.paulgraham.com/articles.html)
+	 - All gold 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjEzMzc3NSwxMjMwMzMyODM4LDExMj
-EzMjE0MDEsMTcyMzk5MzkxLDE0MTc4NzQ5MjJdfQ==
+eyJoaXN0b3J5IjpbMTU3OTMxMTAwNywxODU2MTMzNzc1LDEyMz
+AzMzI4MzgsMTEyMTMyMTQwMSwxNzIzOTkzOTEsMTQxNzg3NDky
+Ml19
 -->
