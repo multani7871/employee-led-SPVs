@@ -1,10 +1,8 @@
 - Foundational
+	- All three are ust read, not even worth describing,
 	 - Getting Things Done
-		 -  
 	 - Ready for anything
-		 - 
 	 - Making it all work
-		 - 
 	 - How to Take Smart Notes
 		 - 
 	 - How to Read a Book
@@ -13,14 +11,14 @@
 		 - 
 	 - Principles by Ray Dalio
 		 - 
- - The Elon Musk Series by Wait But Why
-	 - Especially the Cook and the Chef
+ - [The Elon Musk Series](https://waitbutwhy.com/2017/03/elon-musk-post-series.html) by Wait But Why
+	 - Especially the last one
  - Zero To One
 	 - How to think about startups
  - Angel by Jason Calacanis
 	 - How to think about angel investing
  - [The H Factor of Personality: Why Some People Are Manipulative, Self-Entitled, Materialistic, and Exploitive](https://www.amazon.com/dp/B00DV3LRY6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-	 - Helpful to also take the survey before you read and then take it again after
+	 - Helpful to also [take the survey](https://hexaco.org/hexaco-online) before you read and then take it again after
  - The Barbell Prescription
 	- How to think about health and strength
  - The Gift of Fear
@@ -35,6 +33,6 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwMzc0NjYsMTcyMzk5MzkxLDE0MTc4Nz
-Q5MjJdfQ==
+eyJoaXN0b3J5IjpbODQ1MDA0ODI1LDE3MjM5OTM5MSwxNDE3OD
+c0OTIyXX0=
 -->
