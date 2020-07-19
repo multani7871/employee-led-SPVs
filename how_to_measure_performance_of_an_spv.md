@@ -10,9 +10,9 @@ The SPV generally exists in two states: active and dissolved. Active is defined 
 |   |  Leading |  Lagging |   
 |-|-|-|
 | **TVM**  | TVPI  | DPI  |   
-| **Time-dep**  | Unrealized IRR | Realized IRR  |   
+| **TVM**  | Unrealized IRR | Realized IRR  |   
 
-
+*TVM = Time Value of Money
 -   DPI
     -   cash out divided by cash in
 -   TVPI
@@ -38,7 +38,7 @@ Private stock trajectory examples from private companies that recently exited
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwNjA1OTYzLC0xMjU1MTMwMTgsLTIwNz
-Q4NzAzODcsLTIwOTk3MDgyMjMsMjAzMjA1ODA5NSwtMzMwNDE5
-NTE4LDEyMzk3NTMxODQsLTEzMzUwMDQwODBdfQ==
+eyJoaXN0b3J5IjpbMTYxNzQ5NTc2OCwtMTI1NTEzMDE4LC0yMD
+c0ODcwMzg3LC0yMDk5NzA4MjIzLDIwMzIwNTgwOTUsLTMzMDQx
+OTUxOCwxMjM5NzUzMTg0LC0xMzM1MDA0MDgwXX0=
 -->
