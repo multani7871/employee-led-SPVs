@@ -36,8 +36,9 @@
  - [Paul Graham's Essays](http://www.paulgraham.com/articles.html)
 	 - All gold
  - [Breaking Smart](https://breakingsmart.com/en/season-1/)
-	 - Etho
+	 - Ethos of Silicon Valley
+ -  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTEzNDU5NSwxMTIxMzIxNDAxLDE3Mj
+eyJoaXN0b3J5IjpbMTIzMDMzMjgzOCwxMTIxMzIxNDAxLDE3Mj
 M5OTM5MSwxNDE3ODc0OTIyXX0=
 -->
