@@ -51,8 +51,10 @@
 	 - How to think about startups
  - Angel by Jason Calacanis
 	 - How to think about angel investing (and joining an early stage company)
+- Management
+	- [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](https://www.amazon.com/dp/B01BFKJA0Y/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk5ODAxNzEsMTg1NjEzMzc3NSwxMj
+eyJoaXN0b3J5IjpbLTEzOTkwNDY2ODQsMTg1NjEzMzc3NSwxMj
 MwMzMyODM4LDExMjEzMjE0MDEsMTcyMzk5MzkxLDE0MTc4NzQ5
 MjJdfQ==
 -->
