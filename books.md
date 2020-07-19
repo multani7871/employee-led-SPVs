@@ -37,8 +37,12 @@
 	 - All gold
  - [Breaking Smart](https://breakingsmart.com/en/season-1/)
 	 - Ethos of Silicon Valley
- -  T
+ -  The Goal: A Process of Ongoing Improvement
+ - Rules for Radicals
+- Sales
+	- The Challenger Sale
+	- Predictable Revenue
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTE1NjcxMCwxMjMwMzMyODM4LDExMj
-EzMjE0MDEsMTcyMzk5MzkxLDE0MTc4NzQ5MjJdfQ==
+eyJoaXN0b3J5IjpbMzU3MTg1MzYzLDEyMzAzMzI4MzgsMTEyMT
+MyMTQwMSwxNzIzOTkzOTEsMTQxNzg3NDkyMl19
 -->
