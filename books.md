@@ -22,6 +22,7 @@
  - The Barbell Prescription
 	- How to think about health and strength
  - The Gift of Fear
+	 - The importance of trusting your instincts
  - Atomic Awakening
 	 - History of physics and nuclear engineering
  - Boyd by Robert Coram
@@ -29,9 +30,9 @@
  - Developer Hegemony
 	 - Becoming an efficiencer 
  - [The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
-	 - 
+	 - How to navigate any for profit company
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjI4Mjk5NSwxNzIzOTkzOTEsMTQxNz
+eyJoaXN0b3J5IjpbMTg1MTEwMjczOCwxNzIzOTkzOTEsMTQxNz
 g3NDkyMl19
 -->
