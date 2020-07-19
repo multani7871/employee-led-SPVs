@@ -44,17 +44,17 @@
 	- The Startup Owner's Manual
 	- Disciplined Entrepreneurship: 24 Steps to a Successful Startup
 	- [The Great CEO Within](https://www.amazon.com/Great-CEO-Within-Tactical-Building-ebook/dp/B07ZLGQZYC/ref=sr_1_2?dchild=1&keywords=ceo%20within&qid=1595143316&s=digital-text&sr=1-2)
-		 - Must read if you work at a startup or are running one
- - [Paul Graham's Essays](http://www.paulgraham.com/articles.html)
-	 - All gold 
- - Zero To One
-	 - How to think about startups
- - Angel by Jason Calacanis
-	 - How to think about angel investing (and joining an early stage company)
-- Management
-	- [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](https://www.amazon.com/dp/B01BFKJA0Y/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+		- Must read if you work at a startup or are running one
+	 - [Paul Graham's Essays](http://www.paulgraham.com/articles.html)
+		 - All gold 
+	 - Zero To One
+		 - How to think about startups
+	 - Angel by Jason Calacanis
+		 - How to think about angel investing (and joining an early stage company)
+	- Management
+		- [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](https://www.amazon.com/dp/B01BFKJA0Y/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkwNDY2ODQsMTg1NjEzMzc3NSwxMj
-MwMzMyODM4LDExMjEzMjE0MDEsMTcyMzk5MzkxLDE0MTc4NzQ5
-MjJdfQ==
+eyJoaXN0b3J5IjpbLTE4NjQyNzQ2NTIsLTEzOTkwNDY2ODQsMT
+g1NjEzMzc3NSwxMjMwMzMyODM4LDExMjEzMjE0MDEsMTcyMzk5
+MzkxLDE0MTc4NzQ5MjJdfQ==
 -->
