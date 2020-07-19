@@ -24,12 +24,21 @@
 	 - Financials
 		 - Use a collaborative google sheet or Causal model
 	 - Ideally memo is multi media
-		 - F
+		 - Financial model
+		 - Prose
+		 - Videos
+			 - Demos
+			 - Founder exposition
+			 - Interviews
+				 -  Customers
+				 -  Vendors
+				 -  Partners
+				 - etc.
  - Fundraising
 	 - Lead investors
 	 - SPVs
 		 - Employees
 		 - Customers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTI3OTg4NiwxMDQ5OTE3MzE0XX0=
+eyJoaXN0b3J5IjpbMTc1Njk1MDc4NiwxMDQ5OTE3MzE0XX0=
 -->
