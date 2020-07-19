@@ -1,9 +1,9 @@
 - Foundational
 	- All  are must read to get maximum value of what comes after
-		 - Getting Things Done
+		 - [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity-ebook/dp/B00KWG9M2E/ref=sr_1_2?crid=N9JDKHPMC4UU&dchild=1&keywords=getting%20things%20done&qid=1595143175&s=digital-text&sprefix=getting,digital-text,176&sr=1-2)
 		 - Ready for anything
 		 - Making it all work
-		 - How to Take Smart Notes
+		 - [How to Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y)
 		 - How to Read a Book 
 	 - I Will Teach You To Be Rich
 		 - Personal finance framework that is easy to automate
@@ -33,6 +33,6 @@
 	 - How to navigate any for profit company
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTEwMjczOCwxNzIzOTkzOTEsMTQxNz
-g3NDkyMl19
+eyJoaXN0b3J5IjpbNTcyMTMzMzUzLDE3MjM5OTM5MSwxNDE3OD
+c0OTIyXX0=
 -->
