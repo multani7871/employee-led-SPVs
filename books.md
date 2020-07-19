@@ -1,14 +1,12 @@
 - Foundational
-	- All three are ust read, not even worth describing,
-	 - Getting Things Done
-	 - Ready for anything
-	 - Making it all work
-	 - How to Take Smart Notes
-		 - 
-	 - How to Read a Book
-		 - 
+	- All four are must read
+		 - Getting Things Done
+		 - Ready for anything
+		 - Making it all work
+		 - How to Take Smart Notes
+		 - How to Read a Book 
 	 - I Will Teach You To Be Rich
-		 - 
+		 - Personal finance framework that is easy to automate
 	 - Principles by Ray Dalio
 		 - 
  - [The Elon Musk Series](https://waitbutwhy.com/2017/03/elon-musk-post-series.html) by Wait But Why
@@ -33,6 +31,6 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1MDA0ODI1LDE3MjM5OTM5MSwxNDE3OD
-c0OTIyXX0=
+eyJoaXN0b3J5IjpbMjA2ODE0OTQwNSwxNzIzOTkzOTEsMTQxNz
+g3NDkyMl19
 -->
