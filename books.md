@@ -21,8 +21,9 @@
 	 - The importance of trusting your instincts
  - Atomic Awakening
 	 - Approachable and riveting history of physics and nuclear engineering
- - Boyd by Robert Coram
-	 - How to think about winning
+ - John Boyd 
+	 - Biography by Robert Coram
+	 - [Business and the Blitzkrieg](https://www.goalsys.com/systemsthinking/documents/Part-2-BusinessandtheBlitzkrieg.pdf)
  - Developer Hegemony
 	 - Becoming an efficiencer 
  - [The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
@@ -54,7 +55,7 @@
 - Management
 	- [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](https://www.amazon.com/dp/B01BFKJA0Y/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjI3OTY5MiwtMTM5OTA0NjY4NCwxOD
-U2MTMzNzc1LDEyMzAzMzI4MzgsMTEyMTMyMTQwMSwxNzIzOTkz
-OTEsMTQxNzg3NDkyMl19
+eyJoaXN0b3J5IjpbLTE0MTM1NDk2MTksLTEzOTkwNDY2ODQsMT
+g1NjEzMzc3NSwxMjMwMzMyODM4LDExMjEzMjE0MDEsMTcyMzk5
+MzkxLDE0MTc4NzQ5MjJdfQ==
 -->
