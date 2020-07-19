@@ -48,8 +48,8 @@
 - The True Believer by Eric Hoffer
 - Thanks for the Feedback
 - A Mind for Numbers by Barbara Oakley
-- 
+- Bullshit Jobs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMwMjY3MTgsMTIzMDMzMjgzOCwxMT
-IxMzIxNDAxLDE3MjM5OTM5MSwxNDE3ODc0OTIyXX0=
+eyJoaXN0b3J5IjpbMTg1NjEzMzc3NSwxMjMwMzMyODM4LDExMj
+EzMjE0MDEsMTcyMzk5MzkxLDE0MTc4NzQ5MjJdfQ==
 -->
