@@ -17,7 +17,7 @@
 	 - Especially the Cook and the Chef
  - Zero To One
 	 - How to think about startups
- - Angel
+ - Angel by Jason Calacanis
 	 - How to think about angel investing
  - The H Factor of Personality: Why Some People Are Manipulative, Self-Entitled, Materialistic, and Exploitive
 	 - Helpful to also take the survey before you read and then take it again after
@@ -27,8 +27,11 @@
  - Atomic Awakening
 	 - History of physics and nuclear engineering
  - Boyd by Robert Coram
- - 
+	 - How to think about winning
+ - Developer Hegemony
+	 - Beco
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzk5MzkxLDE0MTc4NzQ5MjJdfQ==
+eyJoaXN0b3J5IjpbMTQ4MDg0MDE2OSwxNzIzOTkzOTEsMTQxNz
+g3NDkyMl19
 -->
