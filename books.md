@@ -1,5 +1,5 @@
 - Foundational
-	- All four are must read
+	- All  are must read to get maximum value of what comes after
 		 - Getting Things Done
 		 - Ready for anything
 		 - Making it all work
@@ -8,9 +8,11 @@
 	 - I Will Teach You To Be Rich
 		 - Personal finance framework that is easy to automate
 	 - Principles by Ray Dalio
-		 - 
+		 - How to think in terms of machines
  - [The Elon Musk Series](https://waitbutwhy.com/2017/03/elon-musk-post-series.html) by Wait But Why
 	 - Especially the last one
+ - [Documentation is Automation](https://cacm.acm.org/magazines/2018/6/228040-documentation-is-automation/fulltext)
+	 - How to make your life easier in the simplest and cheapest way possible.
  - Zero To One
 	 - How to think about startups
  - Angel by Jason Calacanis
@@ -28,9 +30,8 @@
 	 - Becoming an efficiencer 
  - [The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
 	 - 
- - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODE0OTQwNSwxNzIzOTkzOTEsMTQxNz
+eyJoaXN0b3J5IjpbLTI0MjI4Mjk5NSwxNzIzOTkzOTEsMTQxNz
 g3NDkyMl19
 -->
