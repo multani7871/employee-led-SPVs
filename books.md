@@ -1,16 +1,16 @@
 - Foundational
 	- All  are must read to get maximum value of what comes after
 		 - [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity-ebook/dp/B00KWG9M2E/ref=sr_1_2?crid=N9JDKHPMC4UU&dchild=1&keywords=getting%20things%20done&qid=1595143175&s=digital-text&sprefix=getting,digital-text,176&sr=1-2)
-		 - Ready for anything
-		 - Making it all work
+		 - [Ready for anything](https://www.amazon.com/gp/product/B000OIZUP8/ref=dbs_a_def_rwt_bibl_vppi_i3)
+		 - [Making it all work](https://www.amazon.com/gp/product/B001AO0GRC/ref=dbs_a_def_rwt_bibl_vppi_i2)
 		 - [How to Take Smart Notes](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y)
-		 - How to Read a Book 
+		 - [How to Read a Book](https://www.amazon.com/How-Read-Book-Touchstone-ebook/dp/B004PYDAPE/ref=sr_1_2?dchild=1&keywords=how%20to%20read%20a%20book&qid=1595143248&s=digital-text&sr=1-2) 
 	 - I Will Teach You To Be Rich
 		 - Personal finance framework that is easy to automate
 	 - Principles by Ray Dalio
 		 - How to think in terms of machines
  - [The Elon Musk Series](https://waitbutwhy.com/2017/03/elon-musk-post-series.html) by Wait But Why
-	 - Especially the last one
+	 - Especially the last essay
  - [Documentation is Automation](https://cacm.acm.org/magazines/2018/6/228040-documentation-is-automation/fulltext)
 	 - How to make your life easier in the simplest and cheapest way possible.
  - Zero To One
@@ -33,6 +33,6 @@
 	 - How to navigate any for profit company
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMTMzMzUzLDE3MjM5OTM5MSwxNDE3OD
-c0OTIyXX0=
+eyJoaXN0b3J5IjpbMTEyMTMyMTQwMSwxNzIzOTkzOTEsMTQxNz
+g3NDkyMl19
 -->
