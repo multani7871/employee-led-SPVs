@@ -19,7 +19,7 @@
 	 - How to think about startups
  - Angel by Jason Calacanis
 	 - How to think about angel investing
- - The H Factor of Personality: Why Some People Are Manipulative, Self-Entitled, Materialistic, and Exploitive
+ - [The H Factor of Personality: Why Some People Are Manipulative, Self-Entitled, Materialistic, and Exploitive](https://www.amazon.com/dp/B00DV3LRY6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 	 - Helpful to also take the survey before you read and then take it again after
  - The Barbell Prescription
 	- How to think about health and strength
@@ -29,9 +29,12 @@
  - Boyd by Robert Coram
 	 - How to think about winning
  - Developer Hegemony
-	 - Beco
+	 - Becoming an efficiencer 
+ - [The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
+	 - 
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDg0MDE2OSwxNzIzOTkzOTEsMTQxNz
-g3NDkyMl19
+eyJoaXN0b3J5IjpbODAwMzc0NjYsMTcyMzk5MzkxLDE0MTc4Nz
+Q5MjJdfQ==
 -->
