@@ -43,9 +43,13 @@
 	- The Challenger Sale
 	- Predictable Revenue
 	- From Impossible to Inevitable
+	- The New Strategic Selling
+	- 
 - The True Believer by Eric Hoffer
+- Thanks for the Feedback
+- A Mind for Numbers by Barbara Oakley
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA1MjU5NzgsMTIzMDMzMjgzOCwxMT
+eyJoaXN0b3J5IjpbLTEwNzMwMjY3MTgsMTIzMDMzMjgzOCwxMT
 IxMzIxNDAxLDE3MjM5OTM5MSwxNDE3ODc0OTIyXX0=
 -->
