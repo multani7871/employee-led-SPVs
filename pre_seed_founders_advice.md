@@ -7,8 +7,9 @@
 			 - YouTube channel followers
 			 - Instagram followers
 		 - Achieve some # KPI that would be far beyond what an individual would usually have with casual usage of that platform.
-		 - 
  - Deal memos instead of decks
+	 - Share memo in advance of meeting
+		 - Ask them to add comments before meeting so as to ensure that meeting is good use of time on both sides.
 	 - Collaborative instead of competitive
 		 - Update after each meeting
 		 - Measure the quality of the meeting by how much change it catalyzes in the memo
@@ -20,11 +21,15 @@
 		 - Business model design
 		 - Identifying risks and surfacing mitigation plans
 		 - Introductions to people who can help strengthen certain sections of the memo
+	 - Financials
+		 - Use a collaborative google sheet or Causal model
+	 - Ideally memo is multi media
+		 - F
  - Fundraising
 	 - Lead investors
 	 - SPVs
 		 - Employees
 		 - Customers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTkxNzMxNF19
+eyJoaXN0b3J5IjpbLTM0NTI3OTg4NiwxMDQ5OTE3MzE0XX0=
 -->
