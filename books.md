@@ -42,7 +42,10 @@
 - Sales
 	- The Challenger Sale
 	- Predictable Revenue
+	- From Impossible to Inevitable
+- The True Believer by Eric Hoffer
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3MTg1MzYzLDEyMzAzMzI4MzgsMTEyMT
-MyMTQwMSwxNzIzOTkzOTEsMTQxNzg3NDkyMl19
+eyJoaXN0b3J5IjpbLTE2NzA1MjU5NzgsMTIzMDMzMjgzOCwxMT
+IxMzIxNDAxLDE3MjM5OTM5MSwxNDE3ODc0OTIyXX0=
 -->
