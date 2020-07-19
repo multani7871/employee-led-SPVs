@@ -13,10 +13,6 @@
 	 - Especially the last essay
  - [Documentation is Automation](https://cacm.acm.org/magazines/2018/6/228040-documentation-is-automation/fulltext)
 	 - How to make your life easier in the simplest and cheapest way possible.
- - Zero To One
-	 - How to think about startups
- - Angel by Jason Calacanis
-	 - How to think about angel investing
  - [The H Factor of Personality: Why Some People Are Manipulative, Self-Entitled, Materialistic, and Exploitive](https://www.amazon.com/dp/B00DV3LRY6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 	 - Helpful to also [take the survey](https://hexaco.org/hexaco-online) before you read and then take it again after
  - The Barbell Prescription
@@ -24,7 +20,7 @@
  - The Gift of Fear
 	 - The importance of trusting your instincts
  - Atomic Awakening
-	 - History of physics and nuclear engineering
+	 - Approachable and riveting history of physics and nuclear engineering
  - Boyd by Robert Coram
 	 - How to think about winning
  - Developer Hegemony
@@ -51,8 +47,12 @@
 		 - Must read if you work at a startup or are running one
  - [Paul Graham's Essays](http://www.paulgraham.com/articles.html)
 	 - All gold 
+ - Zero To One
+	 - How to think about startups
+ - Angel by Jason Calacanis
+	 - How to think about angel investing (and joining an early stage company)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTMxMTAwNywxODU2MTMzNzc1LDEyMz
-AzMzI4MzgsMTEyMTMyMTQwMSwxNzIzOTkzOTEsMTQxNzg3NDky
-Ml19
+eyJoaXN0b3J5IjpbLTE3Mzk5ODAxNzEsMTg1NjEzMzc3NSwxMj
+MwMzMyODM4LDExMjEzMjE0MDEsMTcyMzk5MzkxLDE0MTc4NzQ5
+MjJdfQ==
 -->
