@@ -37,8 +37,8 @@
 	 - All gold
  - [Breaking Smart](https://breakingsmart.com/en/season-1/)
 	 - Ethos of Silicon Valley
- -  
+ -  T
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDMzMjgzOCwxMTIxMzIxNDAxLDE3Mj
-M5OTM5MSwxNDE3ODc0OTIyXX0=
+eyJoaXN0b3J5IjpbLTk4NTE1NjcxMCwxMjMwMzMyODM4LDExMj
+EzMjE0MDEsMTcyMzk5MzkxLDE0MTc4NzQ5MjJdfQ==
 -->
