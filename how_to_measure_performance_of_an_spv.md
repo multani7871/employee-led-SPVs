@@ -26,10 +26,9 @@ The SPV generally exists in two states: active and dissolved. Active is defined 
 -   Link to example Google Sheet
 
 Reasonable performance expectations based on company's stage
-- [https://twitter.com/HarveyMultani/status/1278715380500963330](https://twitter.com/HarveyMultani/status/1278715380500963330)
-
 Examples from founder run public former VC backed companies with 10 years of data
 -Tesla
+-- [https://twitter.com/HarveyMultani/status/1278715380500963330](https://twitter.com/HarveyMultani/status/1278715380500963330)
 -Amazon
 -Facebook
 Private stock trajectory examples from private companies that recently exited
@@ -39,7 +38,7 @@ Private stock trajectory examples from private companies that recently exited
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ4NzAzODcsLTIwOTk3MDgyMjMsMj
-AzMjA1ODA5NSwtMzMwNDE5NTE4LDEyMzk3NTMxODQsLTEzMzUw
-MDQwODBdfQ==
+eyJoaXN0b3J5IjpbLTEyNTUxMzAxOCwtMjA3NDg3MDM4NywtMj
+A5OTcwODIyMywyMDMyMDU4MDk1LC0zMzA0MTk1MTgsMTIzOTc1
+MzE4NCwtMTMzNTAwNDA4MF19
 -->
