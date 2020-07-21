@@ -40,8 +40,8 @@
 		 - Employees
 		 - Customers
 
-Major benefit of memo approach: faster conversion of unknown unknowns into known unknowns and known knowns. Identifying knowledge gaps earlier in process radically accelerates execution since even slightly changes in strategy early 
+Major benefit of memo approach: faster conversion of unknown unknowns into known unknowns and known knowns. Identifying knowledge gaps earlier in process radically accelerates execution since even slightly changes in strategy early can lead to major execution changes later. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjE2NzcxOCwxNzU2OTUwNzg2LDEwND
+eyJoaXN0b3J5IjpbMTg4MTAxNDYxNywxNzU2OTUwNzg2LDEwND
 k5MTczMTRdfQ==
 -->
