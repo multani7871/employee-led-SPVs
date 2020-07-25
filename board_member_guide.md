@@ -28,6 +28,8 @@ Immediate difference in how cofounders and investors are compensated.
 
 Ownership. Control. Possession. 
 
+What are employee led SPVs and how do they benefit board members?
+
 
 Resources
 - https://mobile.twitter.com/HarveyMultani/status/1283639263523999750
@@ -36,6 +38,6 @@ Resources
  - [https://www.upcounsel.com/board-of-directors-fiduciary-duty](https://www.upcounsel.com/board-of-directors-fiduciary-duty)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQzMDQ0MjYsLTY3ODIwODk3NywtMj
-EyMzQ4MjE3MSwtMzM4OTY5NDQ2XX0=
+eyJoaXN0b3J5IjpbMTQ1NjU3MzY2NCwtNjc4MjA4OTc3LC0yMT
+IzNDgyMTcxLC0zMzg5Njk0NDZdfQ==
 -->
