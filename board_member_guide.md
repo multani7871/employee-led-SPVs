@@ -28,6 +28,10 @@ How are board members compensated for these duties and the extra liability they 
 - Independent directors
 	- The company will compensate the independent directors. Sometimes 0.5%-2% equity, which drops as the company grows. The company may sometimes compensate with cash in addition to the equity.
 
+We’ll ignore independents for now. 
+
+Immediate difference in how cofounders and investors reps are compensated. 
+
 
 
 Resources
@@ -37,6 +41,6 @@ Resources
  - [https://www.upcounsel.com/board-of-directors-fiduciary-duty](https://www.upcounsel.com/board-of-directors-fiduciary-duty)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODIwODk3NywtMjEyMzQ4MjE3MSwtMz
-M4OTY5NDQ2XX0=
+eyJoaXN0b3J5IjpbNzgyNDc0MjM2LC02NzgyMDg5NzcsLTIxMj
+M0ODIxNzEsLTMzODk2OTQ0Nl19
 -->
