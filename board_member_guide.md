@@ -6,7 +6,6 @@
 
 # Overview
 
-Types of board members at VC backed companies
  - CEO
  - Co-founders (may or may not include CEO)
  - Lead investor of each funding round
@@ -42,6 +41,6 @@ Resources
  - [https://www.upcounsel.com/board-of-directors-fiduciary-duty](https://www.upcounsel.com/board-of-directors-fiduciary-duty)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDc5NjAxNiwtNjc4MjA4OTc3LC0yMT
-IzNDgyMTcxLC0zMzg5Njk0NDZdfQ==
+eyJoaXN0b3J5IjpbNjMwMDY3MjE2LC02NzgyMDg5NzcsLTIxMj
+M0ODIxNzEsLTMzODk2OTQ0Nl19
 -->
