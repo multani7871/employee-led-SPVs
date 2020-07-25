@@ -32,6 +32,7 @@ We’ll ignore independents for now.
 
 Immediate difference in how cofounders and investors reps are compensated. 
 
+Ownership. Control. Possession. 
 
 
 Resources
@@ -41,6 +42,6 @@ Resources
  - [https://www.upcounsel.com/board-of-directors-fiduciary-duty](https://www.upcounsel.com/board-of-directors-fiduciary-duty)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyNDc0MjM2LC02NzgyMDg5NzcsLTIxMj
-M0ODIxNzEsLTMzODk2OTQ0Nl19
+eyJoaXN0b3J5IjpbMTY3MDc5NjAxNiwtNjc4MjA4OTc3LC0yMT
+IzNDgyMTcxLC0zMzg5Njk0NDZdfQ==
 -->
