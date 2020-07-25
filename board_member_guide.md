@@ -6,11 +6,6 @@
 
 # Overview
 
- - CEO
- - Co-founders (may or may not include CEO)
- - Lead investor of each funding round
- - Independent
-
 Every board member has three core fiduciary duties:
 - Care
 	 - 
@@ -19,17 +14,17 @@ Every board member has three core fiduciary duties:
  - Obedience
 	 -  
 
-How are board members compensated for these duties and the extra liability they entail?
+What are the different types of board members and how are theycompensated for these duties and the extra liability they entail?
 - CEO/co-founders
 	- Common stock holdings
-- Lead investors
+- Lead investors of each funding found (“investors”)
 	- Carried interest and management fees.  The investors' LPs pay these fees.
 - Independent directors
 	- The company will compensate the independent directors. Sometimes 0.5%-2% equity, which drops as the company grows. The company may sometimes compensate with cash in addition to the equity.
 
 We’ll ignore independents for now. 
 
-Immediate difference in how cofounders and investors reps are compensated. 
+Immediate difference in how cofounders and investors are compensated. 
 
 Ownership. Control. Possession. 
 
@@ -41,6 +36,6 @@ Resources
  - [https://www.upcounsel.com/board-of-directors-fiduciary-duty](https://www.upcounsel.com/board-of-directors-fiduciary-duty)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwMDY3MjE2LC02NzgyMDg5NzcsLTIxMj
-M0ODIxNzEsLTMzODk2OTQ0Nl19
+eyJoaXN0b3J5IjpbLTE4NzQzMDQ0MjYsLTY3ODIwODk3NywtMj
+EyMzQ4MjE3MSwtMzM4OTY5NDQ2XX0=
 -->
