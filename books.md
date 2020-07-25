@@ -54,8 +54,9 @@
 		 - How to think about angel investing (and joining an early stage company)
 - Management
 	- [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](https://www.amazon.com/dp/B01BFKJA0Y/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+	- https://nav.al/rich
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM1NDk2MTksLTEzOTkwNDY2ODQsMT
-g1NjEzMzc3NSwxMjMwMzMyODM4LDExMjEzMjE0MDEsMTcyMzk5
-MzkxLDE0MTc4NzQ5MjJdfQ==
+eyJoaXN0b3J5IjpbMTgwOTEzMTM1OCwtMTQxMzU0OTYxOSwtMT
+M5OTA0NjY4NCwxODU2MTMzNzc1LDEyMzAzMzI4MzgsMTEyMTMy
+MTQwMSwxNzIzOTkzOTEsMTQxNzg3NDkyMl19
 -->
