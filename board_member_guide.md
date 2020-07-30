@@ -6,15 +6,15 @@
 
 # Overview
 
-Every board member has three core fiduciary duties:
+Every board member has two core fiduciary duties:
 - Care
-	 - 
+	 - Bring focus and attention to acting in the company's best interest
  - Loyalty
-	 - Act in the best interest of the company and shareholder
+	 - Act in the best interest of the company and shareholders
 
 What are the different types of board members and how are they compensated for these duties and the extra liability they entail?
 - CEO/co-founders
-	- Common stock holdings
+	- Common stock purchased at founding and follow on grants
 - Lead investors of each funding found (“investors”)
 	- Carried interest and management fees.  The investors' LPs pay these fees.
 - Independent directors
@@ -34,8 +34,8 @@ Resources
  - [https://techcrunch.com/2016/11/05/what-you-need-to-know-about-startup-boards/](https://techcrunch.com/2016/11/05/what-you-need-to-know-about-startup-boards/)
  - [https://www.esoppartners.com/blog/bid/89198/Corporate-Governance-Duties-of-Care-Loyalty-and-Obedience](https://www.esoppartners.com/blog/bid/89198/Corporate-Governance-Duties-of-Care-Loyalty-and-Obedience)
  - [https://www.upcounsel.com/board-of-directors-fiduciary-duty](https://www.upcounsel.com/board-of-directors-fiduciary-duty)
-
+ - [https://www.lawinfo.com/resources/business-law/the-board-of-directors-duties-of-care-and-loy.html](https://www.lawinfo.com/resources/business-law/the-board-of-directors-duties-of-care-and-loy.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg0NDU5OTMsMTQ1NjU3MzY2NCwtNj
-c4MjA4OTc3LC0yMTIzNDgyMTcxLC0zMzg5Njk0NDZdfQ==
+eyJoaXN0b3J5IjpbMTQwNTkxMjQ3NSwxNDU2NTczNjY0LC02Nz
+gyMDg5NzcsLTIxMjM0ODIxNzEsLTMzODk2OTQ0Nl19
 -->
