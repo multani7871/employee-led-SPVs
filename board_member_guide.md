@@ -23,11 +23,11 @@ The board supervises the CEO. The CEO supervises employees. Employees are compen
 
 The difference in incentives creates principal agent misalignments between the various stakeholders. 
 
-Employee led Special Purpose Vehicles
+Employee led Special Purpose Vehicles dramatically improve incentive alignment which will lead to stronger performance for the shareholders.
 
- 
+ An employee SPV is like any other SPV on the cap table except that it is led by an employee and that employee earns the carried interest from the SPV at exit. 
 
-An employee led Special Purpose Vehicle (SPV) is like any other SPV on the cap table
+Employees who lead SPVs have hybrid incentives. They have the common s
 
 Resources
 - https://mobile.twitter.com/HarveyMultani/status/1283639263523999750
@@ -36,6 +36,6 @@ Resources
  - [https://www.upcounsel.com/board-of-directors-fiduciary-duty](https://www.upcounsel.com/board-of-directors-fiduciary-duty)
  - [https://www.lawinfo.com/resources/business-law/the-board-of-directors-duties-of-care-and-loy.html](https://www.lawinfo.com/resources/business-law/the-board-of-directors-duties-of-care-and-loy.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzE4NDMyNSwxNDU2NTczNjY0LC02Nz
+eyJoaXN0b3J5IjpbLTE4OTIzMTQ4MiwxNDU2NTczNjY0LC02Nz
 gyMDg5NzcsLTIxMjM0ODIxNzEsLTMzODk2OTQ0Nl19
 -->
