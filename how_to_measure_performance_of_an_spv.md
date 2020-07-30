@@ -22,9 +22,9 @@ The SPV generally exists in two states:
 - DPI
     -   Distributions to Paid-In Capital. The total amount of money the SPV has returned to investors (Distributions) divided by Paid in Capital.
 -   TVPI
-	- Total Value (Residual Value + Distributions
-    -   Gross
-    -   Net
+	- Total Value (Residual Value + Distributions) divided by Paid-In Capital
+		- in most SPVs, Distributions are usually 0 until all the distributions happen at once and then Residual Value becomes zero. 
+    -  TVPI can be either gross or net of fees. TVPI is usually calculated net of f
 -   IRR
     -   Unrealized
     -   Realized
@@ -48,7 +48,7 @@ Private stock trajectory examples from private companies that recently exited
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzQ1MzgwMCwtMTYzOTY2NDkxMywzMD
+eyJoaXN0b3J5IjpbMTI1NzE2MDY5NCwtMTYzOTY2NDkxMywzMD
 Q3MzIxNDEsMTYxNzQ5NTc2OCwtMTI1NTEzMDE4LC0yMDc0ODcw
 Mzg3LC0yMDk5NzA4MjIzLDIwMzIwNTgwOTUsLTMzMDQxOTUxOC
 wxMjM5NzUzMTg0LC0xMzM1MDA0MDgwXX0=
