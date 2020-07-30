@@ -11,6 +11,10 @@ Every board member has two core fiduciary duties:
  - Loyalty
 	 - Act in the best interest of the company and shareholders
 
+Encouraging employee led Special Purpose Vehicles helps board members better fulfill these core duties.
+
+# Background
+
 What are the different types of board members and how are they compensated for these duties and the extra liability they entail?
 - CEO/co-founders
 	- Common stock purchased at founding and follow on option and restricted stock grants
@@ -25,9 +29,11 @@ The difference in incentives creates principal agent misalignments between the v
 
 Employee led Special Purpose Vehicles dramatically improve incentive alignment which will lead to stronger performance for the shareholders.
 
- An employee SPV is like any other SPV on the cap table except that it is led by an employee and that employee earns the carried interest from the SPV at exit. 
+An employee SPV is like any other SPV on the cap table except that it is led by an employee and that employee earns the carried interest from the SPV at exit. 
 
-Employees who lead SPVs have hybrid incentives. They have the common s
+Employees who lead SPVs have hybrid incentives. They have the common stock incentives of founders, independent directors, and employees. They also have the carried interest incentive of investor board members. As a company grows in headcount, the CEO's decision making will become primarily strategy and hiring. In a healthy organizaay to day decision making will continually be devolved to the employees closest to the customer. 
+
+Encouraging Employee led SPVs ensures that 
 
 Resources
 - https://mobile.twitter.com/HarveyMultani/status/1283639263523999750
@@ -36,6 +42,6 @@ Resources
  - [https://www.upcounsel.com/board-of-directors-fiduciary-duty](https://www.upcounsel.com/board-of-directors-fiduciary-duty)
  - [https://www.lawinfo.com/resources/business-law/the-board-of-directors-duties-of-care-and-loy.html](https://www.lawinfo.com/resources/business-law/the-board-of-directors-duties-of-care-and-loy.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTIzMTQ4MiwxNDU2NTczNjY0LC02Nz
+eyJoaXN0b3J5IjpbLTk5Nzk2NDI5MiwxNDU2NTczNjY0LC02Nz
 gyMDg5NzcsLTIxMjM0ODIxNzEsLTMzODk2OTQ0Nl19
 -->
