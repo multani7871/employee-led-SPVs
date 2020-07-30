@@ -4,13 +4,17 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
 
 How do we measure the performance of the SPV? We can use four different metrics to measure the performance of an SPV. Each metric tells us something different and we need all four to get the full picture of the SPV. 
 
-The SPV generally exists in two states: active and dissolved. Active is defined by the SPV having accepted capital and purchased the underlying asset. Dissolved is defined by having exited the asset. The SPV can exit the asset by either selling its shares or by distributing those shares at a terminal value. 
+The SPV generally exists in two states: 
+- active
+	- An active SPV has accepted capital and purchased the underlying asset.
+- dissolved
+	- Dissolved is defined by having exited the asset. The SPV can exit the asset by either selling its shares or by distributing those shares at a terminal value. 
 
 
 |   |  Leading |  Lagging |   
 |-|-|-|
-| **TVM**  | TVPI  | DPI  |   
-| **TVM**  | Unrealized IRR | Realized IRR  |   
+| **Ignores TVM**  | TVPI  | DPI  |   
+| **Includes TVM**  | Unrealized IRR | Realized IRR  |   
 
 *TVM = Time Value of Money
 -   DPI
@@ -38,7 +42,8 @@ Private stock trajectory examples from private companies that recently exited
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzQ5NTc2OCwtMTI1NTEzMDE4LC0yMD
-c0ODcwMzg3LC0yMDk5NzA4MjIzLDIwMzIwNTgwOTUsLTMzMDQx
-OTUxOCwxMjM5NzUzMTg0LC0xMzM1MDA0MDgwXX0=
+eyJoaXN0b3J5IjpbLTIwNDExMjk4NjIsMTYxNzQ5NTc2OCwtMT
+I1NTEzMDE4LC0yMDc0ODcwMzg3LC0yMDk5NzA4MjIzLDIwMzIw
+NTgwOTUsLTMzMDQxOTUxOCwxMjM5NzUzMTg0LC0xMzM1MDA0MD
+gwXX0=
 -->
