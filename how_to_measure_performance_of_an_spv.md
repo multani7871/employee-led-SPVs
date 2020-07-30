@@ -33,6 +33,8 @@ Reasonable performance expectations based on company's stage
 Examples from founder run public former VC backed companies with 10 years of data
 -Tesla
 -- [https://twitter.com/HarveyMultani/status/1278715380500963330](https://twitter.com/HarveyMultani/status/1278715380500963330)
+-[https://equityzen.com/knowledge-center/newsletter/now-that-slack-is-public-how-much-did-investors-make/](https://equityzen.com/knowledge-center/newsletter/now-that-slack-is-public-how-much-did-investors-make/)
+
 -Amazon
 -Facebook
 Private stock trajectory examples from private companies that recently exited
@@ -42,8 +44,8 @@ Private stock trajectory examples from private companies that recently exited
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0NzMyMTQxLDE2MTc0OTU3NjgsLTEyNT
-UxMzAxOCwtMjA3NDg3MDM4NywtMjA5OTcwODIyMywyMDMyMDU4
-MDk1LC0zMzA0MTk1MTgsMTIzOTc1MzE4NCwtMTMzNTAwNDA4MF
-19
+eyJoaXN0b3J5IjpbMTYxNDY2NTgxNSwzMDQ3MzIxNDEsMTYxNz
+Q5NTc2OCwtMTI1NTEzMDE4LC0yMDc0ODcwMzg3LC0yMDk5NzA4
+MjIzLDIwMzIwNTgwOTUsLTMzMDQxOTUxOCwxMjM5NzUzMTg0LC
+0xMzM1MDA0MDgwXX0=
 -->
