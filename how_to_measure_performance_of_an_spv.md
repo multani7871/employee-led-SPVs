@@ -35,6 +35,7 @@ Examples from founder run public former VC backed companies with 10 years of dat
 --[https://twitter.com/HarveyMultani/status/1278715380500963330](https://twitter.com/HarveyMultani/status/1278715380500963330)
 -[https://equityzen.com/knowledge-center/newsletter/now-that-slack-is-public-how-much-did-investors-make/](https://equityzen.com/knowledge-center/newsletter/now-that-slack-is-public-how-much-did-investors-make/)
 -[https://angel.co/blog/angellist-access-fund](https://angel.co/blog/angellist-access-fund)
+-[http://www.allenlatta.com/allens-blog/lp-corner-fund-performance-metrics-internal-rate-of-return-irr-part-one](http://www.allenlatta.com/allens-blog/lp-corner-fund-performance-metrics-internal-rate-of-return-irr-part-one)
 -Amazon
 -Facebook
 Private stock trajectory examples from private companies that recently exited
@@ -44,8 +45,8 @@ Private stock trajectory examples from private companies that recently exited
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzgyNjA1NSwzMDQ3MzIxNDEsMTYxNz
-Q5NTc2OCwtMTI1NTEzMDE4LC0yMDc0ODcwMzg3LC0yMDk5NzA4
-MjIzLDIwMzIwNTgwOTUsLTMzMDQxOTUxOCwxMjM5NzUzMTg0LC
-0xMzM1MDA0MDgwXX0=
+eyJoaXN0b3J5IjpbLTE2Mzk2NjQ5MTMsMzA0NzMyMTQxLDE2MT
+c0OTU3NjgsLTEyNTUxMzAxOCwtMjA3NDg3MDM4NywtMjA5OTcw
+ODIyMywyMDMyMDU4MDk1LC0zMzA0MTk1MTgsMTIzOTc1MzE4NC
+wtMTMzNTAwNDA4MF19
 -->
