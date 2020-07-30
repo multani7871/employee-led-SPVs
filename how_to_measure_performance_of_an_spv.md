@@ -1,8 +1,8 @@
 # How to Measure the Performance of an SPV
 
-An SPV is a fund that invests in a single asset. It's financially equivalent to buying that asset. The vast majority of employee led SPVs that invest in VC backed startups accept capital once and then return capital when the company exits.
+An SPV is a fund that invests in a single asset. It's financially equivalent to buying that asset, minus the setup fee paid to the fund administrator and the performance fee paid to the SPV leader. The vast majority of employee led SPVs that invest in VC backed startups accept capital once and then distribute any returns when the company exits.
 
-How do we measure the performance of the SPV? We can use four different metrics to measure the performance of an SPV. Each metric tells us something different and we need all four to get the full picture of the SPV. 
+How do we measure the performance of the SPV? We use four metrics to measure the performance of an SPV. Each metric tells us something different and we need all four to get the full picture of the SPV. 
 
 The SPV generally exists in two states: 
 - active
@@ -45,8 +45,8 @@ Private stock trajectory examples from private companies that recently exited
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk2NjQ5MTMsMzA0NzMyMTQxLDE2MT
-c0OTU3NjgsLTEyNTUxMzAxOCwtMjA3NDg3MDM4NywtMjA5OTcw
-ODIyMywyMDMyMDU4MDk1LC0zMzA0MTk1MTgsMTIzOTc1MzE4NC
-wtMTMzNTAwNDA4MF19
+eyJoaXN0b3J5IjpbMjE0NTgxNjM3MCwtMTYzOTY2NDkxMywzMD
+Q3MzIxNDEsMTYxNzQ5NTc2OCwtMTI1NTEzMDE4LC0yMDc0ODcw
+Mzg3LC0yMDk5NzA4MjIzLDIwMzIwNTgwOTUsLTMzMDQxOTUxOC
+wxMjM5NzUzMTg0LC0xMzM1MDA0MDgwXX0=
 -->
