@@ -8,15 +8,15 @@ The SPV generally exists in two states:
 - active
 	- An active SPV has accepted capital and purchased the underlying asset.
 - dissolved
-	- Dissolved is defined by having exited the asset. The SPV can exit the asset by either selling its shares or by distributing those shares at a terminal value. 
+	- A dissolved SPV has exited the asset. The SPV can exit the asset by either selling its shares or by distributing those shares at a terminal value. 
 
 
 |   |  Leading |  Lagging |   
 |-|-|-|
 | **Ignores TVM**  | TVPI  | DPI  |   
-| **Includes TVM**  | Unrealized IRR | Realized IRR  |   
+| **Accounts for TVM**  | Unrealized IRR | Realized IRR  |   
 
-*TVM = Time Value of Money
+***TVM** = Time Value of Money
 -   DPI
     -   cash out divided by cash in
 -   TVPI
@@ -42,8 +42,8 @@ Private stock trajectory examples from private companies that recently exited
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDExMjk4NjIsMTYxNzQ5NTc2OCwtMT
-I1NTEzMDE4LC0yMDc0ODcwMzg3LC0yMDk5NzA4MjIzLDIwMzIw
-NTgwOTUsLTMzMDQxOTUxOCwxMjM5NzUzMTg0LC0xMzM1MDA0MD
-gwXX0=
+eyJoaXN0b3J5IjpbMzA0NzMyMTQxLDE2MTc0OTU3NjgsLTEyNT
+UxMzAxOCwtMjA3NDg3MDM4NywtMjA5OTcwODIyMywyMDMyMDU4
+MDk1LC0zMzA0MTk1MTgsMTIzOTc1MzE4NCwtMTMzNTAwNDA4MF
+19
 -->
