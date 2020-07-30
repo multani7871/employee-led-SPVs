@@ -5,7 +5,6 @@
 -   Everyone: see the  [Master Plan](https://harveymultani.substack.com/p/master-plan-employee-led-spvs)
 
 # Overview
-
 Every board member has two core fiduciary duties:
 - Care
 	 - Bring focus and attention to acting in the company's best interest
@@ -18,16 +17,9 @@ What are the different types of board members and how are they compensated for t
 - Lead investors of each funding found (“investors”)
 	- Carried interest and management fees.  The investors' LPs pay these fees.
 - Independent directors
-	- The company will compensate the independent directors. Sometimes 0.5%-2% equity, which drops as the company grows. The company may sometimes compensate with cash in addition to the equity.
+	- The company will compensate the independent directors. Sometimes 0.5%-2% equity in the form of option grants of common shares. This percentage drops as the company grows. The company may sometimes compensate independent directors with cash in addition to the equity.
 
-We’ll ignore independents for now. 
-
-Immediate difference in how cofounders and investors are compensated. 
-
-Ownership. Control. Possession. 
-
-What are employee led SPVs and how do they benefit board members?
-
+Notice a major difference in how cofounders and investors are compensated. 
 
 Resources
 - https://mobile.twitter.com/HarveyMultani/status/1283639263523999750
@@ -36,6 +28,6 @@ Resources
  - [https://www.upcounsel.com/board-of-directors-fiduciary-duty](https://www.upcounsel.com/board-of-directors-fiduciary-duty)
  - [https://www.lawinfo.com/resources/business-law/the-board-of-directors-duties-of-care-and-loy.html](https://www.lawinfo.com/resources/business-law/the-board-of-directors-duties-of-care-and-loy.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTkxMjQ3NSwxNDU2NTczNjY0LC02Nz
-gyMDg5NzcsLTIxMjM0ODIxNzEsLTMzODk2OTQ0Nl19
+eyJoaXN0b3J5IjpbMjIwODYxNjYwLDE0NTY1NzM2NjQsLTY3OD
+IwODk3NywtMjEyMzQ4MjE3MSwtMzM4OTY5NDQ2XX0=
 -->
