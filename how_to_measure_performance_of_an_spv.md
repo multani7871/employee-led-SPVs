@@ -24,10 +24,11 @@ The SPV generally exists in two states:
 -   TVPI
 	- Total Value (Residual Value + Distributions) divided by Paid-In Capital
 		- in most SPVs, Distributions are usually 0 until all the distributions happen at once and then Residual Value becomes zero. 
-    -  TVPI can be either gross or net of fees. TVPI is usually calculated net of f
--   IRR
+    -  TVPI can be either gross or net of fees. TVPI is usually calculated net of fees. 
+-   IRR (Internal Rate of Return)
+	-   Realized
+		- Realized IRR is DPI but accounting for the Time Value of Money. For example, a DPI of 2 is great for a 2 year investment but not so great for a 20 year investment. 
     -   Unrealized
-    -   Realized
 -   Example calculations.
 -   Show how secondaries can affect different metrics.
 -   Link to example Google Sheet
@@ -48,7 +49,7 @@ Private stock trajectory examples from private companies that recently exited
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzE2MDY5NCwtMTYzOTY2NDkxMywzMD
+eyJoaXN0b3J5IjpbLTg1NjY3MTE2NiwtMTYzOTY2NDkxMywzMD
 Q3MzIxNDEsMTYxNzQ5NTc2OCwtMTI1NTEzMDE4LC0yMDc0ODcw
 Mzg3LC0yMDk5NzA4MjIzLDIwMzIwNTgwOTUsLTMzMDQxOTUxOC
 wxMjM5NzUzMTg0LC0xMzM1MDA0MDgwXX0=
