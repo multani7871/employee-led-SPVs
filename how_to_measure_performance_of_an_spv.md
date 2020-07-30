@@ -4,12 +4,6 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
 
 How do we measure the performance of the SPV? We use four metrics to measure the performance of an SPV. Each metric tells us something different and we need all four to get the full picture of the SPV. 
 
-The SPV generally exists in two states: 
-- Active
-	- An active SPV has accepted capital and purchased the underlying asset.
-- Dissolved
-	- A dissolved SPV has exited the asset. The SPV can exit the asset by either selling its shares or by distributing those shares at a terminal value. 
-
 
 |   |  Leading |  Lagging |   
 |-|-|-|
@@ -48,9 +42,14 @@ Private stock trajectory examples from private companies that recently exited
 -Lyft
 -
 
+The SPV generally exists in two states: 
+- Active
+	- An active SPV has accepted capital and purchased the underlying asset.
+- Dissolved
+	- A dissolved SPV has exited the asset. The SPV can exit the asset by either selling its shares or by distributing those shares at a terminal value. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2Mjk2MjkzLC0xNjM5NjY0OTEzLDMwND
-czMjE0MSwxNjE3NDk1NzY4LC0xMjU1MTMwMTgsLTIwNzQ4NzAz
-ODcsLTIwOTk3MDgyMjMsMjAzMjA1ODA5NSwtMzMwNDE5NTE4LD
-EyMzk3NTMxODQsLTEzMzUwMDQwODBdfQ==
+eyJoaXN0b3J5IjpbNzQyMTY0MzksODk2Mjk2MjkzLC0xNjM5Nj
+Y0OTEzLDMwNDczMjE0MSwxNjE3NDk1NzY4LC0xMjU1MTMwMTgs
+LTIwNzQ4NzAzODcsLTIwOTk3MDgyMjMsMjAzMjA1ODA5NSwtMz
+MwNDE5NTE4LDEyMzk3NTMxODQsLTEzMzUwMDQwODBdfQ==
 -->
