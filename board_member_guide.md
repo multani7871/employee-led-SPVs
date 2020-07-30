@@ -10,9 +10,7 @@ Every board member has three core fiduciary duties:
 - Care
 	 - 
  - Loyalty
-	 - Act in the company's best interest
- - Obedience
-	 -  
+	 - Act in the best interest of the company and shareholder
 
 What are the different types of board members and how are they compensated for these duties and the extra liability they entail?
 - CEO/co-founders
@@ -38,6 +36,6 @@ Resources
  - [https://www.upcounsel.com/board-of-directors-fiduciary-duty](https://www.upcounsel.com/board-of-directors-fiduciary-duty)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE2NDY5MjksMTQ1NjU3MzY2NCwtNj
+eyJoaXN0b3J5IjpbLTE5NTg0NDU5OTMsMTQ1NjU3MzY2NCwtNj
 c4MjA4OTc3LC0yMTIzNDgyMTcxLC0zMzg5Njk0NDZdfQ==
 -->
