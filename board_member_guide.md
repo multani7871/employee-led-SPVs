@@ -19,9 +19,13 @@ What are the different types of board members and how are they compensated for t
 - Independent directors
 	- The company will compensate the independent directors. Sometimes 0.5%-2% equity in the form of option grants of common shares. This percentage drops as the company grows. The company may sometimes compensate independent directors with cash in addition to the equity.
 
-The board supervises the CEO. The CEO supervises employees. Employees are compensated with cash and options that allow the employees to purchase
+The board supervises the CEO. The CEO supervises employees. Employees are compensated with cash and options that allow the employees to purchase common shares at a discount to market price. 
 
-Notice a major difference in how cofounders and investors are compensated. 
+The difference in incentives creates principal agent misalignments between the various stakeholders. 
+
+Employee led Special Purpose Vehicles
+
+ 
 
 An employee led Special Purpose Vehicle (SPV) is like any other SPV on the cap table
 
@@ -32,6 +36,6 @@ Resources
  - [https://www.upcounsel.com/board-of-directors-fiduciary-duty](https://www.upcounsel.com/board-of-directors-fiduciary-duty)
  - [https://www.lawinfo.com/resources/business-law/the-board-of-directors-duties-of-care-and-loy.html](https://www.lawinfo.com/resources/business-law/the-board-of-directors-duties-of-care-and-loy.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzUzMjUwMCwxNDU2NTczNjY0LC02Nz
+eyJoaXN0b3J5IjpbMTA4MzE4NDMyNSwxNDU2NTczNjY0LC02Nz
 gyMDg5NzcsLTIxMjM0ODIxNzEsLTMzODk2OTQ0Nl19
 -->
