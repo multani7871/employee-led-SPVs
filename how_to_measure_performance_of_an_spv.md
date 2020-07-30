@@ -20,9 +20,9 @@ The SPV generally exists in two states:
 - PI
 	- Paid-in capital. The total amount of money investors have sent to the SPV (including admin fees).   
 - DPI
-    -   Distributions to Paid-In Capital. The total amount of money the SPV has returned to investors divided by Paid in Capital.
-   - 
+    -   Distributions to Paid-In Capital. The total amount of money the SPV has returned to investors (Distributions) divided by Paid in Capital.
 -   TVPI
+	- Total Value (Residual Value + Distributions
     -   Gross
     -   Net
 -   IRR
@@ -48,8 +48,8 @@ Private stock trajectory examples from private companies that recently exited
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5MTczNzQ5LC0xNjM5NjY0OTEzLDMwND
-czMjE0MSwxNjE3NDk1NzY4LC0xMjU1MTMwMTgsLTIwNzQ4NzAz
-ODcsLTIwOTk3MDgyMjMsMjAzMjA1ODA5NSwtMzMwNDE5NTE4LD
-EyMzk3NTMxODQsLTEzMzUwMDQwODBdfQ==
+eyJoaXN0b3J5IjpbMTcxMzQ1MzgwMCwtMTYzOTY2NDkxMywzMD
+Q3MzIxNDEsMTYxNzQ5NTc2OCwtMTI1NTEzMDE4LC0yMDc0ODcw
+Mzg3LC0yMDk5NzA4MjIzLDIwMzIwNTgwOTUsLTMzMDQxOTUxOC
+wxMjM5NzUzMTg0LC0xMzM1MDA0MDgwXX0=
 -->
