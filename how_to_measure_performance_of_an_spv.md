@@ -29,6 +29,7 @@ The SPV generally exists in two states:
 	-   Realized
 		- Realized IRR is DPI but accounting for the Time Value of Money. For example, a DPI of 2 is great for a 2 year investment but not so great for a 20 year investment. 
     -   Unrealized
+	    - Unrealized IRR is TVPI but accounting for the Time Value of Money. SPVs usually only have one cash inflow at formation and then one cash outflow at dissolution. Sometimes an SPV may sell shares in between formation and dissolution. This would affect IRR but is rare enough tha
 -   Example calculations.
 -   Show how secondaries can affect different metrics.
 -   Link to example Google Sheet
@@ -49,7 +50,7 @@ Private stock trajectory examples from private companies that recently exited
 -
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjY3MTE2NiwtMTYzOTY2NDkxMywzMD
+eyJoaXN0b3J5IjpbMTUzODk5MjY0MywtMTYzOTY2NDkxMywzMD
 Q3MzIxNDEsMTYxNzQ5NTc2OCwtMTI1NTEzMDE4LC0yMDc0ODcw
 Mzg3LC0yMDk5NzA4MjIzLDIwMzIwNTgwOTUsLTMzMDQxOTUxOC
 wxMjM5NzUzMTg0LC0xMzM1MDA0MDgwXX0=
