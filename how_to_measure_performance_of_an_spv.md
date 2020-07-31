@@ -25,7 +25,7 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
     -   Unrealized
 	    - Unrealized IRR is TVPI but accounting for the Time Value of Money. SPVs usually only have one cash inflow at formation and then one cash outflow at dissolution. Sometimes an SPV may sell shares in between formation and dissolution. This would affect IRR but is rare enough that I won't cover that case here.
 
-[This guide]([http://www.allenlatta.com/allens-blog/lp-corner-private-equity-fund-performance-an-overview](http://www.allenlatta.com/allens-blog/lp-corner-private-equity-fund-performance-an-overview)) is a excellent deep dive into these metrics with example calculations. I have very little to add to it. 
+[This guide](http://www.allenlatta.com/allens-blog/lp-corner-private-equity-fund-performance-an-overview) is a excellent deep dive into these metrics with example calculations. I have very little to add to it. 
 
 
 Reasonable performance expectations based on company's stage
@@ -48,7 +48,7 @@ The SPV generally exists in two states:
 - Dissolved
 	- A dissolved SPV has exited the asset. The SPV can exit the asset by either selling its shares or by distributing those shares at a terminal value. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTc4MTE5MiwtMTIzODUzMDc2LC01MD
+eyJoaXN0b3J5IjpbLTQ1NTMyNTQzMCwtMTIzODUzMDc2LC01MD
 UzNjk2NTMsNzQyMTY0MzksODk2Mjk2MjkzLC0xNjM5NjY0OTEz
 LDMwNDczMjE0MSwxNjE3NDk1NzY4LC0xMjU1MTMwMTgsLTIwNz
 Q4NzAzODcsLTIwOTk3MDgyMjMsMjAzMjA1ODA5NSwtMzMwNDE5
