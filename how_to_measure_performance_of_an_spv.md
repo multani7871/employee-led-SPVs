@@ -28,29 +28,16 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
 [This guide](http://www.allenlatta.com/allens-blog/lp-corner-private-equity-fund-performance-an-overview) is a excellent deep dive into these metrics with example calculations. I have very little to add to it. 
 
 
-Reasonable performance expectations based on company's stage
-Examples from founder run public former VC backed companies with 10 years of data
+# Examples
 -Tesla
 --[https://twitter.com/HarveyMultani/status/1278715380500963330](https://twitter.com/HarveyMultani/status/1278715380500963330)
 -[https://equityzen.com/knowledge-center/newsletter/now-that-slack-is-public-how-much-did-investors-make/](https://equityzen.com/knowledge-center/newsletter/now-that-slack-is-public-how-much-did-investors-make/)
 -[https://angel.co/blog/angellist-access-fund](https://angel.co/blog/angellist-access-fund)
--Amazon
--Facebook
-Private stock trajectory examples from private companies that recently exited
--Slack
--Zoom
--Lyft
--
-
-The SPV generally exists in two states: 
-- Active
-	- An active SPV has accepted capital and purchased the underlying asset.
-- Dissolved
-	- A dissolved SPV has exited the asset. The SPV can exit the asset by either selling its shares or by distributing those shares at a terminal value. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTMyNTQzMCwtMTIzODUzMDc2LC01MD
-UzNjk2NTMsNzQyMTY0MzksODk2Mjk2MjkzLC0xNjM5NjY0OTEz
-LDMwNDczMjE0MSwxNjE3NDk1NzY4LC0xMjU1MTMwMTgsLTIwNz
-Q4NzAzODcsLTIwOTk3MDgyMjMsMjAzMjA1ODA5NSwtMzMwNDE5
-NTE4LDEyMzk3NTMxODQsLTEzMzUwMDQwODBdfQ==
+eyJoaXN0b3J5IjpbMTYzNTU0NzUyNiwtNDU1MzI1NDMwLC0xMj
+M4NTMwNzYsLTUwNTM2OTY1Myw3NDIxNjQzOSw4OTYyOTYyOTMs
+LTE2Mzk2NjQ5MTMsMzA0NzMyMTQxLDE2MTc0OTU3NjgsLTEyNT
+UxMzAxOCwtMjA3NDg3MDM4NywtMjA5OTcwODIyMywyMDMyMDU4
+MDk1LC0zMzA0MTk1MTgsMTIzOTc1MzE4NCwtMTMzNTAwNDA4MF
+19
 -->
