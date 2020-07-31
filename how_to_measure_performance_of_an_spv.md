@@ -1,4 +1,4 @@
-# How to Measure an SPV's P
+# How to Measure an SPV's Performance
 
 An SPV is a fund that invests in a single asset. It's financially equivalent to buying that asset, minus the setup fee paid to the fund administrator and the performance fee paid to the SPV leader. The vast majority of employee led SPVs that invest in VC backed startups accept capital once and then distribute any returns when the company exits.
 
@@ -34,10 +34,10 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
 - [Investment metrics from AngelList's Access funds](https://angel.co/blog/angellist-access-fund)
 - [a16z's IRRs](https://www.theinformation.com/articles/andreessen-horowitz-returns-slip-according-to-internal-data)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI3ODM0OTMsMTE5MTI0MzgyNywtND
-U1MzI1NDMwLC0xMjM4NTMwNzYsLTUwNTM2OTY1Myw3NDIxNjQz
-OSw4OTYyOTYyOTMsLTE2Mzk2NjQ5MTMsMzA0NzMyMTQxLDE2MT
-c0OTU3NjgsLTEyNTUxMzAxOCwtMjA3NDg3MDM4NywtMjA5OTcw
-ODIyMywyMDMyMDU4MDk1LC0zMzA0MTk1MTgsMTIzOTc1MzE4NC
-wtMTMzNTAwNDA4MF19
+eyJoaXN0b3J5IjpbMTMwNDQ1ODY4MywxMTkxMjQzODI3LC00NT
+UzMjU0MzAsLTEyMzg1MzA3NiwtNTA1MzY5NjUzLDc0MjE2NDM5
+LDg5NjI5NjI5MywtMTYzOTY2NDkxMywzMDQ3MzIxNDEsMTYxNz
+Q5NTc2OCwtMTI1NTEzMDE4LC0yMDc0ODcwMzg3LC0yMDk5NzA4
+MjIzLDIwMzIwNTgwOTUsLTMzMDQxOTUxOCwxMjM5NzUzMTg0LC
+0xMzM1MDA0MDgwXX0=
 -->
