@@ -2,7 +2,7 @@
 
 An SPV is a fund that invests in a single asset. It's financially equivalent to buying that asset, minus the setup fee paid to the fund administrator and the performance fee paid to the SPV leader. The vast majority of employee led SPVs that invest in VC backed startups accept capital once and then distribute any returns when the company exits.
 
-How do we measure the performance of the SPV? We use four metrics to measure the performance of an SPV. Each metric tells us something different and we need all four to get the full picture of the SPV. 
+ We use four metrics to measure the performance of an SPV. Each metric tells us something different and we need all four to get the full picture.
 
 
 |   |  Leading |  Lagging |   
@@ -48,8 +48,9 @@ The SPV generally exists in two states:
 - Dissolved
 	- A dissolved SPV has exited the asset. The SPV can exit the asset by either selling its shares or by distributing those shares at a terminal value. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyMTY0MzksODk2Mjk2MjkzLC0xNjM5Nj
-Y0OTEzLDMwNDczMjE0MSwxNjE3NDk1NzY4LC0xMjU1MTMwMTgs
-LTIwNzQ4NzAzODcsLTIwOTk3MDgyMjMsMjAzMjA1ODA5NSwtMz
-MwNDE5NTE4LDEyMzk3NTMxODQsLTEzMzUwMDQwODBdfQ==
+eyJoaXN0b3J5IjpbMTM2ODk5NjkwMCw3NDIxNjQzOSw4OTYyOT
+YyOTMsLTE2Mzk2NjQ5MTMsMzA0NzMyMTQxLDE2MTc0OTU3Njgs
+LTEyNTUxMzAxOCwtMjA3NDg3MDM4NywtMjA5OTcwODIyMywyMD
+MyMDU4MDk1LC0zMzA0MTk1MTgsMTIzOTc1MzE4NCwtMTMzNTAw
+NDA4MF19
 -->
