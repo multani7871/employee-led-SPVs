@@ -21,7 +21,7 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
     -  TVPI can be either gross or net of fees. TVPI is usually calculated net of fees. 
 -   IRR (Internal Rate of Return)
 	-   Realized
-		- Realized IRR is DPI but accounting for the Time Value of Money. For example, a DPI of 2 is great for a 2 year investment but not so great for a 20 year investment. 
+		- Realized IRR is DPI but accounting for the Time Value of Money. For example, a DPI of 2 is great for a 2 year investment but not so great for a 10 year investment. 
     -   Unrealized
 	    - Unrealized IRR is TVPI but accounting for the Time Value of Money. SPVs usually only have one cash inflow at formation and then one cash outflow at dissolution. Sometimes an SPV may sell shares in between formation and dissolution. This would affect IRR but is rare enough that I won't cover that case here.
 
@@ -48,9 +48,9 @@ The SPV generally exists in two states:
 - Dissolved
 	- A dissolved SPV has exited the asset. The SPV can exit the asset by either selling its shares or by distributing those shares at a terminal value. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTM2OTY1Myw3NDIxNjQzOSw4OTYyOT
-YyOTMsLTE2Mzk2NjQ5MTMsMzA0NzMyMTQxLDE2MTc0OTU3Njgs
-LTEyNTUxMzAxOCwtMjA3NDg3MDM4NywtMjA5OTcwODIyMywyMD
-MyMDU4MDk1LC0zMzA0MTk1MTgsMTIzOTc1MzE4NCwtMTMzNTAw
-NDA4MF19
+eyJoaXN0b3J5IjpbLTEyMzg1MzA3NiwtNTA1MzY5NjUzLDc0Mj
+E2NDM5LDg5NjI5NjI5MywtMTYzOTY2NDkxMywzMDQ3MzIxNDEs
+MTYxNzQ5NTc2OCwtMTI1NTEzMDE4LC0yMDc0ODcwMzg3LC0yMD
+k5NzA4MjIzLDIwMzIwNTgwOTUsLTMzMDQxOTUxOCwxMjM5NzUz
+MTg0LC0xMzM1MDA0MDgwXX0=
 -->
