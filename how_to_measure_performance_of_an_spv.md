@@ -29,12 +29,11 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
 
 
 # Examples
--Tesla
---[https://twitter.com/HarveyMultani/status/1278715380500963330](https://twitter.com/HarveyMultani/status/1278715380500963330)
--[https://equityzen.com/knowledge-center/newsletter/now-that-slack-is-public-how-much-did-investors-make/](https://equityzen.com/knowledge-center/newsletter/now-that-slack-is-public-how-much-did-investors-make/)
--[https://angel.co/blog/angellist-access-fund](https://angel.co/blog/angellist-access-fund)
+- [https://twitter.com/HarveyMultani/status/1278715380500963330](https://twitter.com/HarveyMultani/status/1278715380500963330)
+- [https://equityzen.com/knowledge-center/newsletter/now-that-slack-is-public-how-much-did-investors-make/](https://equityzen.com/knowledge-center/newsletter/now-that-slack-is-public-how-much-did-investors-make/)
+- [https://angel.co/blog/angellist-access-fund](https://angel.co/blog/angellist-access-fund)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTU0NzUyNiwtNDU1MzI1NDMwLC0xMj
+eyJoaXN0b3J5IjpbMTE5MTI0MzgyNywtNDU1MzI1NDMwLC0xMj
 M4NTMwNzYsLTUwNTM2OTY1Myw3NDIxNjQzOSw4OTYyOTYyOTMs
 LTE2Mzk2NjQ5MTMsMzA0NzMyMTQxLDE2MTc0OTU3NjgsLTEyNT
 UxMzAxOCwtMjA3NDg3MDM4NywtMjA5OTcwODIyMywyMDMyMDU4
