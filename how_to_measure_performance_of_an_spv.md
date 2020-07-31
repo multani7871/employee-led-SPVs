@@ -9,7 +9,6 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
 |-|-|-|
 | **Ignores TVM**  | TVPI  | DPI  |   
 | **Accounts for TVM**  | Unrealized IRR | Realized IRR  | 
-| | | |  
 
 ***TVM** = Time Value of Money
 - PI
@@ -34,10 +33,10 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
 - [https://equityzen.com/knowledge-center/newsletter/now-that-slack-is-public-how-much-did-investors-make/](https://equityzen.com/knowledge-center/newsletter/now-that-slack-is-public-how-much-did-investors-make/)
 - [https://angel.co/blog/angellist-access-fund](https://angel.co/blog/angellist-access-fund)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzI5OTQ1MSwxMTkxMjQzODI3LC00NT
-UzMjU0MzAsLTEyMzg1MzA3NiwtNTA1MzY5NjUzLDc0MjE2NDM5
-LDg5NjI5NjI5MywtMTYzOTY2NDkxMywzMDQ3MzIxNDEsMTYxNz
-Q5NTc2OCwtMTI1NTEzMDE4LC0yMDc0ODcwMzg3LC0yMDk5NzA4
-MjIzLDIwMzIwNTgwOTUsLTMzMDQxOTUxOCwxMjM5NzUzMTg0LC
-0xMzM1MDA0MDgwXX0=
+eyJoaXN0b3J5IjpbMTg3MTI0NDY3LDExOTEyNDM4MjcsLTQ1NT
+MyNTQzMCwtMTIzODUzMDc2LC01MDUzNjk2NTMsNzQyMTY0Mzks
+ODk2Mjk2MjkzLC0xNjM5NjY0OTEzLDMwNDczMjE0MSwxNjE3ND
+k1NzY4LC0xMjU1MTMwMTgsLTIwNzQ4NzAzODcsLTIwOTk3MDgy
+MjMsMjAzMjA1ODA5NSwtMzMwNDE5NTE4LDEyMzk3NTMxODQsLT
+EzMzUwMDQwODBdfQ==
 -->
