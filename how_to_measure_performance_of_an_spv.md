@@ -17,7 +17,7 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
     -   Distributions to Paid-In Capital. The total amount of money the SPV has returned to investors (Distributions) divided by Paid in Capital.
 -   TVPI
 	- Total Value (Residual Value + Distributions) divided by Paid-In Capital
-		- in most SPVs, Distributions are usually 0 until all the distributions happen at once and then Residual Value becomes zero. 
+		- In most SPVs, Distributions are usually 0 until the SPV is dissolved. A single distribution then happens and then Residual Value becomes zero. 
     -  TVPI can be either gross or net of fees. TVPI is usually calculated net of fees. 
 -   IRR (Internal Rate of Return)
 	-   Realized
@@ -48,7 +48,7 @@ The SPV generally exists in two states:
 - Dissolved
 	- A dissolved SPV has exited the asset. The SPV can exit the asset by either selling its shares or by distributing those shares at a terminal value. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODk5NjkwMCw3NDIxNjQzOSw4OTYyOT
+eyJoaXN0b3J5IjpbLTUwNTM2OTY1Myw3NDIxNjQzOSw4OTYyOT
 YyOTMsLTE2Mzk2NjQ5MTMsMzA0NzMyMTQxLDE2MTc0OTU3Njgs
 LTEyNTUxMzAxOCwtMjA3NDg3MDM4NywtMjA5OTcwODIyMywyMD
 MyMDU4MDk1LC0zMzA0MTk1MTgsMTIzOTc1MzE4NCwtMTMzNTAw
