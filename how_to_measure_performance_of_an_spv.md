@@ -33,11 +33,13 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
 - [How much did Slack's investors make?](https://equityzen.com/knowledge-center/newsletter/now-that-slack-is-public-how-much-did-investors-make/)
 - [Investment metrics from AngelList's Access funds](https://angel.co/blog/angellist-access-fund)
 - [a16z's IRRs](https://www.theinformation.com/articles/andreessen-horowitz-returns-slip-according-to-internal-data)
+- [Quixotic Ventures](https://quixotic.ventures/2020/08/03/quixotic-portfolio-returns/)
+- [Alumni Ventures Group Returns](https://cdn2.hubspot.net/hubfs/3925488/_Source%20of%20Truth%20Mirrored%20Folder/01%20Policies%20and%20Products/Performance_19-12-31.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDQ1ODY4MywxMTkxMjQzODI3LC00NT
-UzMjU0MzAsLTEyMzg1MzA3NiwtNTA1MzY5NjUzLDc0MjE2NDM5
-LDg5NjI5NjI5MywtMTYzOTY2NDkxMywzMDQ3MzIxNDEsMTYxNz
-Q5NTc2OCwtMTI1NTEzMDE4LC0yMDc0ODcwMzg3LC0yMDk5NzA4
-MjIzLDIwMzIwNTgwOTUsLTMzMDQxOTUxOCwxMjM5NzUzMTg0LC
-0xMzM1MDA0MDgwXX0=
+eyJoaXN0b3J5IjpbOTM0ODU3NzA2LDEzMDQ0NTg2ODMsMTE5MT
+I0MzgyNywtNDU1MzI1NDMwLC0xMjM4NTMwNzYsLTUwNTM2OTY1
+Myw3NDIxNjQzOSw4OTYyOTYyOTMsLTE2Mzk2NjQ5MTMsMzA0Nz
+MyMTQxLDE2MTc0OTU3NjgsLTEyNTUxMzAxOCwtMjA3NDg3MDM4
+NywtMjA5OTcwODIyMywyMDMyMDU4MDk1LC0zMzA0MTk1MTgsMT
+IzOTc1MzE4NCwtMTMzNTAwNDA4MF19
 -->
