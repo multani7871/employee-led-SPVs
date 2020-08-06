@@ -29,10 +29,13 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
 
 |   |  TVPI |  IRR |   
 |-|-|-|
-| **Seed** | 0.00x  | xxx%  |   
-| **Series A**  | 0.00x  | xxx%  | 
-| **Series B**  | 0.00x  | xxx%  |
-| **Series C**  | 0.00x  | xxx%  |
+| **Seed** | 0.00x  | 100%  |   
+| **Series A**  | 0.00x  | 85%  | 
+| **Series B**  | 0.00x  | 70%  |
+| **Series C**  | 0.00x  | 55%  |
+| **Series D**  | 0.00x  | 40%  |
+| **Series E**  | 0.00x  | %  |
+| **Series F**  | 0.00x  | xxx%  |
 
 # Examples
 - [Tesla's TVPI and IRR since going public](https://twitter.com/HarveyMultani/status/1278715380500963330)
@@ -42,10 +45,10 @@ An SPV is a fund that invests in a single asset. It's financially equivalent to 
 - [Quixotic Ventures](https://quixotic.ventures/2020/08/03/quixotic-portfolio-returns/)
 - [Alumni Ventures Group Returns](https://cdn2.hubspot.net/hubfs/3925488/_Source%20of%20Truth%20Mirrored%20Folder/01%20Policies%20and%20Products/Performance_19-12-31.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczNzc5MTE1LDkzNDg1NzcwNiwxMzA0ND
-U4NjgzLDExOTEyNDM4MjcsLTQ1NTMyNTQzMCwtMTIzODUzMDc2
-LC01MDUzNjk2NTMsNzQyMTY0MzksODk2Mjk2MjkzLC0xNjM5Nj
-Y0OTEzLDMwNDczMjE0MSwxNjE3NDk1NzY4LC0xMjU1MTMwMTgs
-LTIwNzQ4NzAzODcsLTIwOTk3MDgyMjMsMjAzMjA1ODA5NSwtMz
-MwNDE5NTE4LDEyMzk3NTMxODQsLTEzMzUwMDQwODBdfQ==
+eyJoaXN0b3J5IjpbLTE5NzM5MTYyMjMsOTM0ODU3NzA2LDEzMD
+Q0NTg2ODMsMTE5MTI0MzgyNywtNDU1MzI1NDMwLC0xMjM4NTMw
+NzYsLTUwNTM2OTY1Myw3NDIxNjQzOSw4OTYyOTYyOTMsLTE2Mz
+k2NjQ5MTMsMzA0NzMyMTQxLDE2MTc0OTU3NjgsLTEyNTUxMzAx
+OCwtMjA3NDg3MDM4NywtMjA5OTcwODIyMywyMDMyMDU4MDk1LC
+0zMzA0MTk1MTgsMTIzOTc1MzE4NCwtMTMzNTAwNDA4MF19
 -->
