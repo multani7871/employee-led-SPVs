@@ -1,16 +1,17 @@
 Performance: (informational, not a solicitation) 
 - DPI: 0.04
-- TVPI: 1.85
-- Date calculated: 05/8/20
+- TVPI: 1.81
+- Date calculated: 09/30/20
 - Audited: No 
 - Valuation methodology
  - I value SAFEs at $0, regardless of company stage. 
  - I get share prices from tenders and/or secondary brokers when possible. 
 
-Portfolio: 
-- Unnamed Co. 
+Portfolio:
+- Quiet
+- Snapdocs 
 - Pipe 
-- Unnamed Co. 
+- Better.com 
 - Vincent 
 - AbstractOps 
 - Edvo 
