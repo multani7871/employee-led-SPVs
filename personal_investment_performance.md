@@ -1,13 +1,15 @@
 Performance: (informational, not a solicitation) 
 - DPI: 0.04
-- TVPI: 1.81
-- Date calculated: 09/30/20
+- TVPI: 2.01
+- Date calculated: 12/18/20
+- Inception date: 7/1/16
 - Audited: No 
 - Valuation methodology
  - I value SAFEs at $0, regardless of company stage. 
  - I get share prices from tenders and/or secondary brokers when possible. 
 
 Portfolio:
+- Gorgias
 - Quiet
 - Snapdocs 
 - Pipe 
