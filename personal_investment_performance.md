@@ -9,6 +9,7 @@ Performance: (informational, not a solicitation)
  - I get share prices from tenders and/or secondary brokers when possible. 
 
 Portfolio:
+- CopyAI
 - Gorgias
 - Quiet
 - Snapdocs 
