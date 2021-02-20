@@ -1,7 +1,7 @@
 Performance: (informational, not a solicitation) 
 - DPI: 0.04
-- TVPI: 2.01
-- Date calculated: 12/18/20
+- TVPI: 2.64
+- Date calculated: 2/19/20
 - Inception date: 7/1/16
 - Audited: No 
 - Valuation methodology
