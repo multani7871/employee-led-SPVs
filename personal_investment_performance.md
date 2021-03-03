@@ -1,7 +1,7 @@
 Performance: (informational, not a solicitation) 
 - DPI: 0.04
-- TVPI: 2.64
-- Date calculated: 2/19/20
+- TVPI: 2.65
+- Date calculated: 3/3/20
 - Inception date: 7/1/16
 - Audited: No 
 - Valuation methodology
@@ -9,6 +9,7 @@ Performance: (informational, not a solicitation)
  - I get share prices from tenders and/or secondary brokers when possible. 
 
 Portfolio:
+- Allocations
 - CopyAI
 - Gorgias
 - Quiet
